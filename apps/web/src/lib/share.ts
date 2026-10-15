@@ -16,6 +16,7 @@ export async function renderShareCard(o: {
   won: boolean;
   streak: number;
   highContrast: boolean;
+  assisted?: boolean;
 }): Promise<Blob | null> {
   const W = 1080,
     H = 1350;
@@ -56,6 +57,11 @@ export async function renderShareCard(o: {
   ctx.fillStyle = L.text;
   ctx.font = `600 72px ${serif}, Georgia, serif`;
   ctx.fillText(o.won ? `Solved in ${o.rows.length} of 6` : "Back to the kitchen", W / 2, 410);
+  if (o.assisted) {
+    ctx.fillStyle = L.muted;
+    ctx.font = `600 34px ${sans}`;
+    ctx.fillText("with options", W / 2, 462);
+  }
 
   // Tile grid
   const cols = o.rows[0]?.length ?? 5;

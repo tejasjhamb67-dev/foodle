@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { create } from "zustand";
 import { persist, createJSONStorage } from "zustand/middleware";
-import type { AnswerCard, Edition, GuessRow, Mode } from "@foodle/game";
+import type { AnswerCard, Edition, GuessOption, GuessRow, Mode } from "@foodle/game";
 
 export interface GameState {
   mode: Mode;
@@ -18,6 +18,9 @@ export interface GameState {
   daily: boolean;
   startedAt: number;
   finishedAt?: number;
+  /** Set once the player switches on multiple choice for the last two guesses. */
+  assisted?: boolean;
+  options?: GuessOption[];
 }
 
 export interface Settings {

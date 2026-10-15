@@ -12,13 +12,15 @@ interface Play {
   solve_ms: number | null;
   squares: string[] | null;
   number: number;
+  assisted: boolean;
 }
 
-/** Spec 11.2: solved before unsolved, then fewer guesses, then shorter solve time. */
+/** Spec 11.2: solved before unsolved, then fewer guesses, then shorter solve time. Unassisted solves rank above solves that used options. */
 function rank(rows: Play[]) {
   return [...rows].sort(
     (a, b) =>
       Number(b.won) - Number(a.won) ||
+      Number(a.assisted) - Number(b.assisted) ||
       a.guess_count - b.guess_count ||
       (a.solve_ms ?? Infinity) - (b.solve_ms ?? Infinity),
   );
@@ -39,7 +41,7 @@ export const GET = (req: Request) =>
     const base = () =>
       db()
         .from("plays")
-        .select("user_id, won, guess_count, solve_ms, squares, number")
+        .select("user_id, won, guess_count, solve_ms, squares, number, assisted")
         .match({ mode, edition })
         .not("finished_at", "is", null);
 
@@ -84,6 +86,7 @@ export const GET = (req: Request) =>
         guesses: r.guess_count,
         solve_ms: r.solve_ms,
         squares: r.squares ?? [],
+        assisted: r.assisted,
         you: r.user_id === user.id,
       })),
     });

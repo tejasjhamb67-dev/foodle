@@ -10,6 +10,7 @@ export function AnswerCard({
   won,
   guesses,
   daily,
+  assisted,
   onShare,
   onStats,
 }: {
@@ -18,6 +19,7 @@ export function AnswerCard({
   won: boolean;
   guesses: number;
   daily: boolean;
+  assisted?: boolean;
   onShare: () => void;
   onStats: () => void;
 }) {
@@ -50,7 +52,7 @@ export function AnswerCard({
       )}
 
       <div className="verdict">
-        <span className={`pill ${won ? "correct" : "absent"}`}>{won ? `Solved in ${guesses}` : "Missed"}</span>
+        <span className={`pill ${won ? "correct" : "absent"}`}>{won ? `Solved in ${guesses}` : "Missed"}{assisted ? " · with options" : ""}</span>
         <span className="t-headline">{word}</span>
       </div>
       {mode === "cuisine" && answer.target && (

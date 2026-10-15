@@ -83,6 +83,8 @@ export function HowToPlay({ onboarding, onDone }: { onboarding?: boolean; onDone
           <li><strong>Shared</strong>: how many ingredients your guess shares with the answer.</li>
           <li><strong>Cuisine mode</strong>: guess the country (or Indian state) from one dish&rsquo;s clues.</li>
         </ul>
+        <p className="t-headline">Stuck near the end?</p>
+        <p>With two guesses left you can switch to four options, one of them the answer. It&rsquo;s up to you; results that use it say &ldquo;with options&rdquo;.</p>
         <p className="t-meta">A new Foodle unlocks at midnight, your time.</p>
       </div>
     );

@@ -123,6 +123,10 @@ describe("stats and share", () => {
     const t = shareText({ number: 142, edition: "india", mode: "dish", rows: [["correct", "absent"]], won: true, url: "foodle.app/142" });
     expect(t).toBe("Foodle No. 142 · India · Dish 1/6\n\n🟩⬜\n\nfoodle.app/142");
   });
+  it("share text marks a result that used options", () => {
+    const t = shareText({ number: 3, edition: "global", mode: "drink", rows: [["absent"], ["correct"]], won: true, assisted: true, url: "x" });
+    expect(t.split("\n")[0]).toBe("Foodle No. 3 · Global · Drink 2/6 · with options");
+  });
   it("haversine sanity", () => {
     expect(Math.round(haversine({ lat: 0, lng: 0 }, { lat: 0, lng: 1 }))).toBe(111);
   });

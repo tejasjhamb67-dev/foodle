@@ -8,8 +8,11 @@ import {
   countryFeedback,
   dateForNumber,
   hashString,
+  haversine,
   itemFeedback,
   MAX_GUESSES,
+  mulberry32,
+  sharedIngredients,
   stateFeedback,
   type AnswerCard,
   type Candidate,
@@ -224,4 +227,57 @@ export function miniSquares(rows: GuessRow[]): ("correct" | "present" | "absent"
     const t = r.tiles[0];
     return t.state === "correct" ? "present" : "absent";
   });
+}
+
+/** Options mode unlocks once this many guesses have been used (i.e. for the last two guesses). */
+export const OPTIONS_AFTER = MAX_GUESSES - 2;
+const OPTION_COUNT = 4;
+
+/** How alike a candidate is to the answer, so decoys are plausible rather than random. */
+function similarity(mode: Mode, edition: Edition, answer: Item, id: string): number {
+  if (mode === "cuisine") {
+    if (edition === "global") {
+      const a = countryByIso2.get(answer.iso2)!;
+      const c = countryByIso2.get(id)!;
+      return (c.subregion === a.subregion ? 3 : 0) + (c.region === a.region ? 2 : 0) - haversine(a, c) / 3000;
+    }
+    const a = stateById.get(stateId(answer.state!))!;
+    const c = stateById.get(id)!;
+    const d = a.lat != null && c.lat != null ? haversine(a as never, c as never) / 600 : 3;
+    return (c.zone === a.zone ? 3 : 0) - d;
+  }
+  const c = itemById.get(id)!;
+  const place = edition === "india" ? (c.state === answer.state ? 3 : 0) + (c.zone === answer.zone ? 2 : 0) : (c.country === answer.country ? 3 : 0) + (c.continent === answer.continent ? 1 : 0);
+  const kind = c.course ? (c.course === answer.course ? 1 : 0) + (c.diet === answer.diet ? 1 : 0) : (c.type === answer.type ? 1 : 0) + (c.alcoholic === answer.alcoholic ? 1 : 0);
+  return place + kind + Math.min(3, sharedIngredients(c, answer));
+}
+
+/**
+ * Multiple choice for the last two guesses (opt-in). The four options are fixed by the first
+ * four guesses, so the set only shrinks as the player rules options out. The answer's position
+ * and the decoys are seeded per puzzle, so every player sees the same choices for the same board.
+ */
+export function optionsFor(mode: Mode, edition: Edition, number: number, guesses: string[]) {
+  const result = evaluate(mode, edition, number, guesses);
+  if (result.finished) throw new GuessError("bad_request", "Puzzle already finished");
+  if (guesses.length < OPTIONS_AFTER) throw new GuessError("bad_request", `Options open after ${OPTIONS_AFTER} guesses`);
+  const answer = answerFor(mode, edition, number);
+  const answerId = mode === "cuisine" ? (edition === "global" ? answer.iso2 : stateId(answer.state!)) : answer.id;
+  const early = new Set(guesses.slice(0, OPTIONS_AFTER));
+  const rnd = mulberry32(hashString(`${SECRET}:options:${mode}:${edition}:${number}:${[...early].sort().join(",")}`));
+  const pool = def(mode, edition)
+    .options.filter((o) => o.id !== answerId && !early.has(o.id))
+    .map((o) => ({ o, score: similarity(mode, edition, answer, o.id) + rnd() * 0.5 }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 8);
+  // Pick decoys from the closest eight, so they're tempting but not always the single nearest.
+  const decoys: GuessOption[] = [];
+  while (decoys.length < OPTION_COUNT - 1 && pool.length) decoys.push(pool.splice(Math.floor(rnd() * pool.length), 1)[0].o);
+  const all = [...decoys, def(mode, edition).options.find((o) => o.id === answerId)!];
+  for (let i = all.length - 1; i > 0; i--) {
+    const j = Math.floor(rnd() * (i + 1));
+    [all[i], all[j]] = [all[j], all[i]];
+  }
+  const guessed = new Set(guesses);
+  return all.filter((o) => !guessed.has(o.id));
 }

@@ -15,6 +15,7 @@ interface Row {
   solve_ms?: number | null;
   squares?: string[];
   points?: number;
+  assisted?: boolean;
   you: boolean;
 }
 type Scope = "friends" | "group" | "global";
@@ -38,7 +39,7 @@ export function LeaderboardRows({ rows, weekly }: { rows: Row[]; weekly?: boolea
             ) : (
               <>
                 <span className="t-meta" style={{ display: "block" }}>
-                  {r.won ? `Solved in ${r.guesses}` : "Missed"}
+                  {r.won ? `Solved in ${r.guesses}${r.assisted ? " · with options" : ""}` : "Missed"}
                 </span>
                 <span className="minis" aria-hidden>
                   {(r.squares ?? []).map((s, i) => (

@@ -36,6 +36,8 @@ export const api = {
       method: "POST",
       body: JSON.stringify({ mode, edition, number, guesses, daily }),
     }),
+  options: (mode: Mode, edition: Edition, number: number, guesses: string[], daily: boolean) =>
+    call<{ options: GuessOption[] }>(`/api/options`, { method: "POST", body: JSON.stringify({ mode, edition, number, guesses, daily }) }),
   guessList: (mode: Mode, edition: Edition) =>
     call<{ version: string; options: GuessOption[] }>(`/api/guess-list?mode=${mode}&edition=${edition}`),
   get: <T>(path: string) => call<T>(path),

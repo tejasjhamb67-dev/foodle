@@ -10,7 +10,7 @@ import {
   placeholderFor,
   verdict,
   type Edition,
-  type Indexed,
+  type GuessOption,
   type Mode,
 } from "@foodle/game";
 import { api, ApiError } from "@/lib/api";
@@ -29,6 +29,7 @@ import { ClueStrip } from "./ClueStrip";
 import { GuessInput } from "./GuessInput";
 import { ModeSwitch } from "./ModeSwitch";
 import { LeftRail, RightRail } from "./Rails";
+import { OptionsPanel, OPTIONS_AFTER } from "./OptionsPanel";
 
 function formatDate(iso: string) {
   return new Date(iso + "T12:00:00").toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" });
@@ -113,7 +114,7 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
   const flipMs = columns.length * 120 + 300;
 
   const onGuess = useCallback(
-    async (o: Indexed, via: "tap" | "enter") => {
+    async (o: GuessOption, via: "tap" | "enter" | "option") => {
       if (number == null || busy) return;
       const prev = useStore.getState().games[key];
       const ids = [...(prev?.rows.map((r) => r.guessId) ?? []), o.id];
@@ -133,6 +134,8 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
           daily: prev?.daily ?? isDaily,
           startedAt: prev?.startedAt ?? Date.now(),
           finishedAt: res.finished ? Date.now() : undefined,
+          assisted: prev?.assisted,
+          options: prev?.options?.filter((x) => x.id !== o.id),
         };
         setAnimateFrom(ids.length - 1);
         saveGame(next);
@@ -148,6 +151,7 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
             () => {
               if (res.won) toast(verdict(true, ids.length));
               setShowAnswer(true);
+              window.scrollTo({ top: 0, behavior: "smooth" });
               const streak = overallStreak(useStore.getState().games, today ?? number);
               const seen = useStore.getState().signInPromptSeen;
               if (SOCIAL_ENABLED && !session && next.daily && (seen === 0 || (streak >= 3 && seen < 3))) setShowPrompt(true);
@@ -167,6 +171,21 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
     [number, busy, key, mode, edition, isDaily, saveGame, toast, clues.length, flipMs, today, session],
   );
 
+  // Opt-in multiple choice for the last two guesses.
+  const openOptions = async () => {
+    if (!game || number == null || busy) return;
+    setBusy(true);
+    try {
+      const res = await api.options(mode, edition, number, game.rows.map((r) => r.guessId), game.daily);
+      saveGame({ ...game, assisted: true, options: res.options });
+      track("options_open", { mode, edition, number, guess_no: game.rows.length + 1 });
+    } catch (e) {
+      toast((e as ApiError).message);
+    } finally {
+      setBusy(false);
+    }
+  };
+
   const onShare = async () => {
     if (!game || number == null) return;
     const res = await share({
@@ -177,6 +196,7 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
       won: game.won,
       streak: overallStreak(games, today ?? number),
       highContrast,
+      assisted: game.assisted,
     });
     if (res === "clipboard") toast("Copied to clipboard");
     if (res !== "cancelled") track("share", { channel: res, mode });
@@ -227,6 +247,7 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
                 won={game.won}
                 guesses={game.rows.length}
                 daily={game.daily}
+                assisted={game.assisted}
                 onShare={onShare}
                 onStats={() => openModal("stats")}
               />
@@ -269,9 +290,19 @@ export function Game({ edition, mode, archiveNumber }: { edition: Edition; mode:
                     }}
                     autoFocus
                   />
-                  <p className="t-meta" style={{ textAlign: "center", marginTop: 12 }}>
-                    {MAX_GUESSES - rows.length} {MAX_GUESSES - rows.length === 1 ? "guess" : "guesses"} left
-                  </p>
+                  {rows.length >= OPTIONS_AFTER && game && (
+                    <OptionsPanel
+                      game={game}
+                      busy={busy}
+                      onOpen={openOptions}
+                      onPick={(o) => onGuess(o, "option")}
+                    />
+                  )}
+                  {rows.length < OPTIONS_AFTER && (
+                    <p className="t-meta" style={{ textAlign: "center", marginTop: 12 }}>
+                      {MAX_GUESSES - rows.length} {MAX_GUESSES - rows.length === 1 ? "guess" : "guesses"} left
+                    </p>
+                  )}
                 </>
               )}
             </div>
