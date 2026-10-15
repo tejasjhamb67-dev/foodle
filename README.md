@@ -56,7 +56,7 @@ The API is a set of Next.js route handlers (`apps/web/src/app/api`), matching de
 1. Create a Supabase project and run `supabase/migrations/*.sql` (`supabase db push`, or paste it into the SQL editor).
 2. In Authentication → URL configuration, add `https://<your-site>/auth/callback` as a redirect URL.
    Enable the Google and Apple providers if you want those buttons to work (email magic links work by default).
-3. Set `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY` and `SUPABASE_SERVICE_ROLE_KEY`.
+3. Set `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY` and `NEXT_PUBLIC_FOODLE_SOCIAL=1`, then redeploy.
 
 ## Content
 

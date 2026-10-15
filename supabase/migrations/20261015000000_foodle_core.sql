@@ -64,7 +64,10 @@ alter table public.groups        enable row level security;
 alter table public.group_members enable row level security;
 
 -- Membership check that does not recurse through group_members' own policy.
-create or replace function public.is_group_member(gid uuid)
+-- Lives in a schema the REST API does not expose, so it can't be called as an RPC.
+create schema if not exists private;
+grant usage on schema private to authenticated;
+create or replace function private.is_group_member(gid uuid)
 returns boolean
 language sql
 security definer
@@ -73,8 +76,8 @@ stable
 as $$
   select exists (select 1 from public.group_members m where m.group_id = gid and m.user_id = (select auth.uid()));
 $$;
-revoke all on function public.is_group_member(uuid) from public;
-grant execute on function public.is_group_member(uuid) to authenticated;
+revoke all on function private.is_group_member(uuid) from public, anon;
+grant execute on function private.is_group_member(uuid) to authenticated;
 
 -- Profiles: everyone signed in can read display names; you can edit your own name.
 create policy "profiles readable" on public.profiles for select to authenticated using (true);
@@ -89,11 +92,11 @@ create policy "friendships read own" on public.friendships for select to authent
   using ((select auth.uid()) in (user_a, user_b));
 
 -- Groups: members read; owner writes.
-create policy "groups members read" on public.groups for select to authenticated using (public.is_group_member(id));
+create policy "groups members read" on public.groups for select to authenticated using (private.is_group_member(id));
 create policy "groups owner update" on public.groups for update to authenticated
   using (owner = (select auth.uid())) with check (owner = (select auth.uid()));
 create policy "groups owner delete" on public.groups for delete to authenticated using (owner = (select auth.uid()));
-create policy "group members read" on public.group_members for select to authenticated using (public.is_group_member(group_id));
+create policy "group members read" on public.group_members for select to authenticated using (private.is_group_member(group_id));
 
 -- Never expose the friend code of other players through the API role.
 revoke select on public.profiles from anon, authenticated;

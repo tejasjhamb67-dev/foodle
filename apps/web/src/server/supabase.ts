@@ -1,9 +1,9 @@
 import "server-only";
 import { createClient, type SupabaseClient, type User } from "@supabase/supabase-js";
-import { SUPABASE_ANON_KEY, SUPABASE_URL } from "@/lib/config";
+import { SOCIAL_ENABLED, SUPABASE_URL } from "@/lib/config";
 
 const SERVICE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? "";
-export const serverSocialEnabled = Boolean(SUPABASE_URL && SUPABASE_ANON_KEY && SERVICE_KEY);
+export const serverSocialEnabled = SOCIAL_ENABLED && Boolean(SERVICE_KEY);
 
 let admin: SupabaseClient | null = null;
 /** Service-role client. Only used on the server, after the caller has been authenticated. */

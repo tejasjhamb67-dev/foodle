@@ -8,7 +8,7 @@ const config: NextConfig = {
   transpilePackages: ["@foodle/game", "@foodle/tokens", "@foodle/content"],
   outputFileTracingRoot: root,
   turbopack: { root },
-  images: { remotePatterns: [{ protocol: "https", hostname: "upload.wikimedia.org" }] },
+  images: { remotePatterns: [{ protocol: "https", hostname: "upload.wikimedia.org" }, { protocol: "https", hostname: "thumb.wikimedia.org" }] },
   poweredByHeader: false,
 };
 

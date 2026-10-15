@@ -31,7 +31,7 @@ export function AnswerCard({
     <section className="answer" aria-labelledby="answer-name">
       <div className="photo">
         {answer.image ? (
-          <img src={answer.image.url} alt={answer.name} />
+          <img src={answer.image.url} alt={answer.name} width={answer.image.w || undefined} height={answer.image.h || undefined} decoding="async" />
         ) : (
           <div className="placeholder">
             <div className="plate" aria-hidden>
