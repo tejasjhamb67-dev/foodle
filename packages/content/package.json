@@ -1,0 +1,23 @@
+{
+  "name": "@foodle/content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./data/items.json": "./data/items.json",
+    "./data/countries.json": "./data/countries.json",
+    "./data/states.json": "./data/states.json",
+    "./data/images.json": "./data/images.json"
+  },
+  "scripts": {
+    "import": "tsx scripts/import.ts",
+    "images": "tsx scripts/images.ts"
+  },
+  "dependencies": {
+    "@foodle/game": "workspace:*"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "xlsx": "0.18.5"
+  }
+}

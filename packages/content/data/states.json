@@ -1,0 +1,174 @@
+[
+ {
+  "name": "Andhra Pradesh",
+  "zone": "South",
+  "lat": 15.9,
+  "lng": 79.7
+ },
+ {
+  "name": "Arunachal Pradesh",
+  "zone": "Northeast",
+  "lat": 28.2,
+  "lng": 94.7
+ },
+ {
+  "name": "Assam",
+  "zone": "Northeast",
+  "lat": 26.2,
+  "lng": 92.9
+ },
+ {
+  "name": "Bihar",
+  "zone": "East",
+  "lat": 25.1,
+  "lng": 85.3
+ },
+ {
+  "name": "Chhattisgarh",
+  "zone": "Central",
+  "lat": 21.3,
+  "lng": 81.9
+ },
+ {
+  "name": "Delhi",
+  "zone": "North",
+  "lat": 28.6,
+  "lng": 77.2
+ },
+ {
+  "name": "Goa",
+  "zone": "West",
+  "lat": 15.3,
+  "lng": 74.1
+ },
+ {
+  "name": "Gujarat",
+  "zone": "West",
+  "lat": 22.3,
+  "lng": 71.2
+ },
+ {
+  "name": "Himachal Pradesh",
+  "zone": "North",
+  "lat": 31.9,
+  "lng": 77.2
+ },
+ {
+  "name": "Jammu & Kashmir",
+  "zone": "North",
+  "lat": 33.8,
+  "lng": 75.1
+ },
+ {
+  "name": "Karnataka",
+  "zone": "South",
+  "lat": 15.3,
+  "lng": 75.7
+ },
+ {
+  "name": "Kerala",
+  "zone": "South",
+  "lat": 10.5,
+  "lng": 76.3
+ },
+ {
+  "name": "Madhya Pradesh",
+  "zone": "Central",
+  "lat": 23.5,
+  "lng": 78.7
+ },
+ {
+  "name": "Maharashtra",
+  "zone": "West",
+  "lat": 19.6,
+  "lng": 75.6
+ },
+ {
+  "name": "Manipur",
+  "zone": "Northeast",
+  "lat": 24.7,
+  "lng": 93.9
+ },
+ {
+  "name": "Meghalaya",
+  "zone": "Northeast",
+  "lat": 25.5,
+  "lng": 91.4
+ },
+ {
+  "name": "Mizoram",
+  "zone": "Northeast",
+  "lat": 23.2,
+  "lng": 92.9
+ },
+ {
+  "name": "Nagaland",
+  "zone": "Northeast",
+  "lat": 26.2,
+  "lng": 94.6
+ },
+ {
+  "name": "Odisha",
+  "zone": "East",
+  "lat": 20.5,
+  "lng": 84.4
+ },
+ {
+  "name": "Pan-India",
+  "zone": "Pan-India"
+ },
+ {
+  "name": "Punjab",
+  "zone": "North",
+  "lat": 31,
+  "lng": 75.4
+ },
+ {
+  "name": "Rajasthan",
+  "zone": "West",
+  "lat": 27,
+  "lng": 74.2
+ },
+ {
+  "name": "Sikkim",
+  "zone": "Northeast",
+  "lat": 27.5,
+  "lng": 88.5
+ },
+ {
+  "name": "Tamil Nadu",
+  "zone": "South",
+  "lat": 11.1,
+  "lng": 78.7
+ },
+ {
+  "name": "Telangana",
+  "zone": "South",
+  "lat": 17.9,
+  "lng": 79
+ },
+ {
+  "name": "Tripura",
+  "zone": "Northeast",
+  "lat": 23.8,
+  "lng": 91.7
+ },
+ {
+  "name": "Uttar Pradesh",
+  "zone": "North",
+  "lat": 26.8,
+  "lng": 80.9
+ },
+ {
+  "name": "Uttarakhand",
+  "zone": "North",
+  "lat": 30.1,
+  "lng": 79
+ },
+ {
+  "name": "West Bengal",
+  "zone": "East",
+  "lat": 22.9,
+  "lng": 87.9
+ }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "foodle",
+  "private": true,
+  "packageManager": "pnpm@10.28.0",
+  "scripts": {
+    "dev": "pnpm --filter @foodle/web dev",
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "typecheck": "turbo run typecheck",
+    "content:import": "pnpm --filter @foodle/content run import",
+    "content:images": "pnpm --filter @foodle/content run images"
+  },
+  "devDependencies": {
+    "turbo": "^2.11.8",
+    "typescript": "5.9.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "unrs-resolver"
+    ]
+  }
+}
