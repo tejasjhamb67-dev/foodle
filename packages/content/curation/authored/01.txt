@@ -1,0 +1,130 @@
+D0001|smoky tandoor-grilled pieces; silky orange gravy; served with naan|Delhi's creamy, mildly spiced tomato curry with tandoori chicken, born at Moti Mahal
+D0002|deep-fried puffed bread; spicy chickpea curry; pickled onions on the side|Punjab's big weekend plate: fluffy fried bread with spicy chickpea curry
+D0003|winter greens; slow-cooked and mashed; white butter on top; eaten with corn flatbread|Punjab's winter mustard-leaf mash, paired with makki di roti
+D0005|stuffed flatbread; crisp layered crust; served with chole|Amritsar's stuffed, tandoor-baked bread with a crisp, buttery crust
+D0006|simmered overnight; rich and creamy; dhaba favourite|Punjab's slow-cooked black lentils with butter and cream
+D0007|red beans in thick gravy; Sunday lunch staple; served over steamed rice|North India's comfort plate of kidney-bean curry over rice
+D0008|marinated cubes; charred edges; tandoor-grilled|Cottage cheese cubes marinated in spiced yogurt and grilled on skewers
+D0009|bright red marinade; charred on the bone; served with onion rings|Bone-in chicken marinated red and roasted in a clay oven
+D0010|batter-fried; carom-spiced crust; Amritsar street snack|Fried fish in a spiced gram-flour batter from Amritsar
+D0012|stuffed flatbread; spiced mashed filling; dollop of white butter; eaten with curd and pickle|Punjab's favourite breakfast: flatbread stuffed with spiced mashed potato
+D0014|tangy yogurt curry; gram flour fritters floating in it; served with rice|A sour yogurt-and-gram-flour curry with onion fritters
+D0016|orange buttery gravy; restaurant favourite; vegetarian cousin of a famous chicken dish|Cottage cheese in a rich, mildly sweet tomato-butter gravy
+D0017|royal Mughlai style; pale creamy gravy|Cottage cheese in a rich, nutty, saffron-scented cream gravy
+D0018|wok-like iron pan; chunky peppers|Cottage cheese and peppers tossed in a freshly ground spice mix in a kadai
+D0019|fried dumplings; dumplings in cream gravy; party dish|Fried paneer-and-potato balls in a creamy cashew gravy
+D0020|grilled chunks in creamy orange sauce; Britain's favourite curry|Grilled chicken pieces in a creamy, spiced tomato sauce
+D0021|long kebabs; cooked on skewers over coals; green chutney on the side|Spiced minced meat moulded on skewers and grilled
+D0022|eaten at dawn; sticky rich stew; Old Delhi breakfast|A slow-cooked meat stew eaten for breakfast in Old Delhi
+D0024|crispy fried patty; chaat topping; street snack|Crisp shallow-fried potato patties topped with chutneys and yogurt
+D0025|crisp fried wafers; chaat topping; sweet, sour and spicy|Crisp wafers topped with potato, chickpeas, yogurt and chutneys
+D0026|soaked dumplings; cool and tangy; Holi favourite|Soft lentil dumplings soaked in yogurt with sweet tamarind chutney
+D0029|leavened bread; spicy chickpeas; Delhi street plate|Delhi's street plate of soft bread with tangy white-pea or chickpea curry
+D0031|deep fried in ghee; soaked in syrup; bright orange coils|Crisp orange spirals fried and soaked in sugar syrup
+D0032|layered milk skins; slowly reduced; served chilled|Milk slowly reduced to thick, sweet layers of cream
+D0033|deep-fried round pastry; spiced lentil filling; flaky shell|A flaky fried pastry ball stuffed with spiced lentils
+D0034|Awadhi style; fragrant layered rice; sealed pot|Lucknow's delicate, fragrant layered rice with meat
+D0035|so soft it melts; Lucknow; made for a toothless nawab|Lucknow's ultra-soft minced-meat patty
+D0036|long, thin kebabs; Lucknow; silky texture|Lucknow's silky minced-meat skewers
+D0038|Mughlai; mild nutty gravy|A mild, rich Mughlai curry of meat braised in yogurt and nuts
+D0040|frozen in cones; dense not airy; sold on a stick|Dense frozen milk dessert set in cone-shaped moulds
+D0041|deep-fried bread; Uttar Pradesh breakfast|Lentil-stuffed fried bread with spicy potato curry
+D0042|translucent candy; Agra sweet|Agra's translucent candied gourd sweet
+D0044|chewed after a meal; folded into a triangle; Varanasi|Varanasi's famous after-dinner betel-leaf parcel
+D0046|roasted gram-flour balls; smoky mash; Bihar|Bihar's roasted stuffed dough balls with smoky mashed vegetables
+D0047|festival cookie; deep-fried; carved mould pattern|Bihar's crunchy jaggery cookie made for Chhath
+D0050|three-part platter; ghee-dipped; crushed sweet crumble|Rajasthan's platter of baked dough balls, lentils and a sweet crumble
+D0051|fiery red curry; Rajput hunting dish; smoky|Rajasthan's fiery red mutton curry
+D0052|steamed dumplings; yogurt gravy; desert cooking|Rajasthan's gram-flour dumplings in a tangy yogurt curry
+D0053|dried desert produce; tangy and spicy; Marwari|A dry Rajasthani dish of desert beans and berries
+D0054|flaky fried pastry; Jodhpur favourite|A flaky fried pastry stuffed with spiced onions
+D0055|batter-fried; Jodhpur snack|A fat chilli stuffed with potato, battered and fried
+D0056|disc-shaped sweet; soaked in syrup; monsoon festival|Rajasthan's honeycomb-like fried disc topped with rabri
+D0059|spongy yellow cake; tempered topping; Gujarati snack|Gujarat's soft, spongy steamed savoury cake
+D0060|thin rolls; tempered topping; Gujarati snack|Gujarat's silky rolled gram-flour sheets
+D0061|travel food; spiced flatbread; Gujarati|Gujarat's spiced fenugreek flatbread
+D0062|mixed winter vegetables; cooked upside down; Surat|Gujarat's mixed winter vegetable casserole
+D0063|Dussehra breakfast; crunchy and sweet together|Gujarat's crunchy gram-flour strips with syrupy spirals
+D0064|savoury baked cake; crusty top|Gujarat's savoury rice-and-lentil cake with bottle gourd
+D0065|thin and sweet; yellow; served with khichdi|Gujarat's thin, sweet-sour yogurt curry
+D0066|thin crisp flatbread; tea-time; roasted on a griddle|Gujarat's crisp, roasted wafer-thin flatbread
+D0068|sweet-spicy potato filling; bun; Kutch street snack|Kutch's spiced-potato bun with peanuts and pomegranate
+D0069|thickened sweet milk; Gujarati festive sweet|Sweetened milk reduced slowly with saffron and nuts
+D0070|hung curd sweet; served with puri|Sweet, saffron-flavoured strained yogurt
+D0072|rolled leaves; steamed and sliced; pinwheel slices|Gujarat's steamed, spiced colocasia-leaf rolls
+D0074|thin dal; sweet and sour; everyday Gujarati|Gujarat's sweet-and-sour thin lentil soup
+D0075|deep-fried potato dumpling; dry garlic chutney; Mumbai's burger|Mumbai's spicy potato fritter in a bun
+D0076|mashed vegetable curry; buttered buns; Mumbai beach snack|Mumbai's buttery mashed vegetable curry with soft buns
+D0077|spicy sprout curry; crunchy topping; Pune and Kolhapur|Maharashtra's fiery sprout curry with farsan and bread
+D0078|light and fluffy; yellow; morning snack|Flattened rice tempered with mustard, peanuts and turmeric
+D0079|fasting food; chewy pearls|Sago pearls stir-fried with peanuts, eaten when fasting
+D0080|sweet stuffed flatbread; Holi and Gudi Padwa|Maharashtra's flatbread stuffed with sweet lentil-jaggery filling
+D0081|steamed dumpling; Ganesha's favourite|Sweet steamed dumplings filled with coconut and jaggery
+D0082|savoury multigrain pancake; Maharashtrian breakfast|Maharashtra's savoury multigrain flatbread
+D0084|fiery red curry; Kolhapur|Kolhapur's fiery chicken curry with roasted coconut
+D0087|crisp fried fish; Mumbai coast; lizard fish|Mumbai's crisp-fried Bombay duck
+D0088|coriander-leaf squares; steamed then fried; Maharashtrian snack|Maharashtra's steamed-and-fried coriander gram-flour squares
+D0089|stuffed brinjal; peanut-coconut masala|Maharashtra's small brinjals stuffed with peanut-coconut masala
+D0092|triple-decker; grilled; Mumbai street|Mumbai's vegetable sandwich with green chutney
+D0093|minced meat curry; Irani café; soft buns|Mumbai's spiced minced meat with buttered bread
+D0097|Parsi; lentil-meat stew; served with brown rice|A Parsi stew of meat cooked in lentils and vegetables
+D0098|white pea curry; potato patties; Mumbai chaat|Potato patties smothered in white-pea curry and chutneys
+D0099|puffed rice mix; beach snack; Mumbai|Mumbai's tangy puffed-rice chaat with sev and chutneys
+D0100|flat crisp puris; chaat; Mumbai|Flat puris topped with potato, chutneys and sev
+D0101|hollow crisp puris; spicy water; street favourite|Hollow crisp puris filled with spiced water and potato
+D0102|tangy coconut curry; served with rice; coastal|Goa's tangy coconut fish curry
+D0103|Portuguese influence; vinegar-sharp; fiery|Goa's fiery, vinegar-sharp pork curry
+D0104|complex roasted spice paste; Goan|Goa's curry made with roasted coconut and many spices
+D0105|green masala; Portuguese-African roots; Goa|Goa's chicken in a green coriander-chilli masala
+D0106|many baked layers; Goan Christmas|Goa's many-layered coconut-egg cake
+D0108|pickled; tangy and fiery; Goan|Goa's fiery, vinegary prawn pickle
+D0111|steamed rice cakes; soft and fluffy; with sambar and chutney|South India's soft steamed rice cakes
+D0112|thin crisp crepe; fermented batter|South India's crisp fermented rice-lentil crepe
+D0113|crisp crepe; spiced potato filling; Udupi|South India's crisp crepe filled with spiced potato
+D0114|crisp fried rings; served with sambar|South India's crisp lentil doughnuts
+D0115|savoury porridge; peppercorn; harvest festival|Tamil Nadu's peppery rice-and-lentil porridge
+D0116|sweet version; harvest festival|Tamil Nadu's sweet jaggery rice-and-lentil pudding
+D0117|lentil stew; vegetables; with idli and dosa|South India's tangy lentil-vegetable stew
+D0118|thin peppery soup; sour|South India's thin, peppery tamarind-tomato soup
+D0119|fiery dark curry; Karaikudi|Tamil Nadu's fiery, aromatic chicken curry
+D0120|street sound of chopping; shredded flatbread|Shredded flatbread stir-fried with egg and salna
+D0121|thick pancake; vegetable topping|South India's thick rice pancake topped with vegetables
+D0122|cool and tangy; tempered; end of meal|South India's cooling rice mixed with yogurt
+D0123|yellow tangy rice; tempered|South India's tangy turmeric rice with peanuts
+D0124|temple prasadam; tangy brown rice|Tamil Nadu's tangy tamarind rice
+D0125|round dumplings; dimpled pan|Tamil Nadu's round dumplings made in a dimpled pan
+D0126|lacy pancake; soft centre; with stew|Kerala's bowl-shaped fermented rice pancake
+D0127|deep-fried bites; bar snack; Chennai|Chennai's spicy deep-fried chicken bites
+D0130|ghee-rich fudge; crumbly; Mysore palace|Mysore's rich, crumbly gram-flour fudge
+D0133|crunchy spirals; Diwali snack|South India's crunchy rice-flour spirals
+D0135|lentils and vegetables; mild|Tamil Nadu's mild vegetable-lentil stew with coconut
+D0136|dry roasted meat; peppery|Tamil Nadu's dry, peppery roasted mutton
+D0138|mixed vegetables; thick coconut gravy; Onam feast|Kerala's mixed vegetables in coconut and yogurt
+D0139|feast on a leaf; many dishes; harvest festival|Kerala's grand vegetarian feast served on a banana leaf
+D0140|steamed cylinders; with chickpea curry|Kerala's steamed rice-flour and coconut logs
+D0141|black chickpea curry; Kerala breakfast|Kerala's black chickpea curry with roasted coconut
+D0142|string hoppers; noodle nests|Kerala's steamed rice-noodle nests
+D0143|red tangy curry; clay pot|Kerala's tangy fish curry soured with kudampuli
+D0144|wrapped and grilled; backwaters|Kerala's spiced pearl-spot fish cooked in banana leaf
+D0145|dry roast; Kerala|Kerala's dry-roasted beef with coconut slices
+D0146|flaky layered flatbread; with beef fry|Kerala's flaky, layered flatbread
+D0147|white coconut stew; mild|Kerala's mild coconut-milk stew
+D0148|short-grain rice; Thalassery|Kerala's Malabar-style chicken rice with short-grain rice
+D0149|sweet fried dumplings; temple offering|Kerala's sweet banana-jaggery fritters
+D0150|banana fritters; tea-time|Kerala's batter-fried ripe plantain
+D0151|rice-flake pudding; Onam|Kerala's jaggery-coconut milk pudding with rice flakes
+D0152|pink milk pudding; Onam|Kerala's pink milk pudding with rice flakes
+D0154|dry stir-fry; Kerala side|Kerala's dry vegetable stir-fry with coconut
+D0156|cassava and fish; toddy shop|Kerala's boiled tapioca with red fish curry
+D0157|thin lacy crepe; Mangalore|Mangalore's thin, lacy rice crepe
+D0158|one-pot rice and lentil; Karnataka|Karnataka's spicy rice-lentil-vegetable dish
+D0159|millet balls; swallowed not chewed|Karnataka's finger-millet balls with greens curry
+D0160|red coconut curry; Mangalore|Mangalore's red, tangy coconut fish curry
+D0161|crisp rice wafers; Mangalore|Mangalore's chicken curry poured over crisp rice wafers
+D0164|rice flatbread; Karnataka breakfast|Karnataka's rice-flour flatbread with coconut
+D0165|crisp fried patty; train snack|A crisp, flat semolina fritter from Maddur
+D0167|brown caramelised fudge; Dharwad|Dharwad's caramelised milk sweet
+D0168|sweet fried puri; Udupi|Mangalore's sweet, fluffy banana puri
+D0169|Kodava; dark pork curry|Coorg's dark, tangy pork curry
+D0172|layered dum rice; raw meat cooked with rice|Hyderabad's famous layered rice-and-meat dish
+D0173|slow-cooked porridge; Ramadan|Hyderabad's slow-cooked wheat, lentil and meat porridge

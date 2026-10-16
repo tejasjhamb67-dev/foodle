@@ -1,0 +1,190 @@
+# Top-ups and hint rewrites. Format: ID|extra clues to add (;)|replacement final hint (blank = keep)
+D0082|sorghum and millet roast; eaten with white butter|
+D0118|curry leaves; drunk from a cup or poured on rice|
+D0121|onion and chilli on top; South Indian breakfast|
+D0130|gram flour cooked in lots of ghee; Karnataka wedding sweet|A rich, crumbly fudge from a royal Karnataka kitchen
+D0150|Kerala chai-shop snack; golden batter|
+D0164|griddle-cooked; dill and onion|
+D0177|ginger-chilli batter; Andhra breakfast|
+D0194|Bengali wedding dish; head-on shellfish|
+D0198|Bengali Sunday breakfast; dum-cooked potatoes|
+D0254|rice batter; tomato chutney|
+D0257|cumin seeds; served with dal|Basmati rice tempered with whole seeds in ghee
+D0259|turmeric yellow; florets and cubes; served with roti|
+D0263|North Indian restaurant curry; Punjabi|
+D0264|Punjabi; served with rice or bhatura|
+D0265|ghee; garlic tempering; served with jeera rice|
+D0267|halved eggs; onion-tomato masala; Sunday lunch|
+D0271|ground meat; Punjabi; served with pav or roti|
+D0278|puffed balloon bread; with aloo sabzi; festival breakfast|
+D0280|crisp layers; tandoor or tawa|
+D0281|Mughlai; with kebabs|
+D0291|ghee-roasted; Satyanarayan prasad|
+D0294|ghee-roasted flour; round|
+D0310|onion-tomato masala; bone-in; Sunday lunch|
+D0326|crumbled cheese; capsicum; with paratha|
+D0328|green chillies; onion|
+D0346|green; coriander and mint; with kebabs|Fresh green dip of herbs, served with kebabs and samosas
+D0352|white round sweets; Diwali; condensed milk|
+D0390|ginger sauce; Hainan roots|
+D0428|batter cast in a mould; Japanese street sweet|
+D0429|Japanese flavour; green|
+D0578|scoop of vanilla; Italian café|
+D0580|chilli flakes; garlic|
+D0600|flour, water, salt, yeast; Paris bakery|
+D0620|eggs; onion; tapas bar|
+D0623|ridged; sugar-dusted|
+D0624|chilli; olive oil; clay dish|
+D0687|salt and sugar cure; thin slices|
+D0745|lokum; rose and lemon flavours; boxed gift|Chewy rose-scented cubes dusted with sugar, from Istanbul
+D0761|baked; dense; New York diner|Manhattan's dense, baked cream-cheese dessert
+D0811|charcoal-roasted; green chilli sauce|
+D0862|cumin; olive oil; stewed slowly|
+B0008|sugar; coupe glass|
+B0012|bourbon; angostura|
+B0016|sugar; crushed ice; Brazil|
+B0020|Collins glass; fizzy|
+B0022|sunset colours; highball|
+B0025|flute; World War I|
+B0028|highball; spicy ginger|
+B0032|sugar; Irish glass|
+B0033|crushed ice; sugar|
+B0039|lemon; neon colour; highball|
+B0106|Jameson; pot still|
+B0107|Suntory; Japanese|
+B0145|hot water; Italian|
+B0161|condensed milk; cha chaan teng|
+B0165|sugar; teapot; Moroccan|
+B0171|turmeric; black pepper; bedtime drink|
+B0172|baking soda; salt; Kashmiri|
+B0173|ginger; after a biryani|
+B0178|sugar; ice; summer stand|
+B0179|sugar; ice; peach or lemon|
+B0185|cold; served over ice|
+B0216|sweet or salted; Indian restaurant|
+B0217|black salt; masala; fizzy|
+B0224|black plum; crushed ice gola|
+B0227|garlic; served after a fish meal|
+B0231|baking soda; salt; samovar|
+B0232|ginger; masala; cutting glass|
+B0233|black salt; sugar; Indian summer|
+B0241|ginger; mint; roadside crusher|
+B0242|ginger; salt; served after a meal|
+B0243|sweet; Punjab|Punjab's sweet yogurt drink blended with ripe fruit
+B0245|robusta; Hanoi; iced|
+D0016||Cottage cheese in a rich, mildly sweet, buttery tomato gravy
+D0018||Cottage cheese and peppers tossed in a freshly ground spice mix in an iron wok
+D0087||Mumbai's crisp-fried lizard fish
+D0100||Flat crisp puris topped with potato, chutneys and fried gram-flour noodles
+D0124||Tamil Nadu's tangy, temple-style sour rice
+D0148||Kerala's coastal chicken rice with short-grain kaima rice
+D0165||A crisp, flat semolina fritter sold on Bengaluru-Mysuru trains
+D0195||Kolkata's fragrant layered rice with mutton, potato and egg
+D0229||Nagaland's smoky meat with fermented shoots and fiery king chilli
+D0304||A tall pink milk dessert with vermicelli, basil seeds and ice cream
+D0306||Layered spiced rice with boiled eggs
+D0317||Fried cottage cheese tossed with chillies and peppers in soy sauce
+D0328||An Indian egg dish with onions, tomato and green chillies
+D0329||Street-style eggs folded in toasted bread
+D0343||India's spicy raw-fruit pickle in mustard oil
+D0345||South India's white dip for idli and dosa
+D0347||Sweet-sour brown chutney of dates and a tart pod fruit
+D0352||Sweet white balls of grated nut and condensed milk
+D0360||Kolkata's egg-and-meat stuffed fried flatbread
+D0366||Sichuan's numbing, spicy bean curd with minced pork
+D0374||A bubbling communal cauldron of spicy broth for cooking meat at the table
+D0379||Sichuan's braised eggplant in a sweet, sour and spicy sauce
+D0396||A whole fish steamed and finished with sizzling oil and spring onion
+D0397||Fermented bean curd with a famously strong smell, deep fried
+D0430||Japan's light, jiggly soufflé cake made with cream cheese
+D0460||Thailand's coconut-milk curry made with fresh green chillies and basil
+D0461||Thailand's coconut-milk curry made with dried chilli paste
+D0464||Thailand's spicy pounded salad of unripe fruit
+D0468||Thailand's sweet coconut glutinous rice with ripe fruit
+D0479||Vietnam's soft, uncooked rice-paper rolls with shrimp
+D0480||Vietnam's deep-fried rolls
+D0502||Singapore's shellfish in sweet-spicy tomato sauce
+D0527||Dhaka's layered mutton rice with potato
+D0535||Pakistan's mutton cooked in a wok-like pan
+D0536||Peshawar's flat, spicy minced beef patty
+D0548||Naples' classic with tomato, mozzarella and basil
+D0551||Milan's creamy saffron rice
+D0587||France's caramelised allium soup with melted cheese toast
+D0597||French bistro steak with fries
+D0641||Britain's battered cod with fried potatoes
+D0642||Britain's big cooked morning plate
+D0650||Britain's date sponge with caramel sauce
+D0654||Britain's jam-and-cream layer cake named after a queen
+D0680||Belgium's thick, deep-grid batter treats
+D0686||Sweden's meat rounds with lingonberry and cream sauce
+D0689||Sweden's spiced swirled bun for fika
+D0739||Turkey's spicy minced lamb skewer
+D0752||Upstate New York's spicy fried chicken pieces
+D0753||America's elbow pasta in cheddar sauce
+D0754||America's smoked, sauced pork rack
+D0756||New England's creamy shellfish soup
+D0758||America's classic fruit pie with lattice top
+D0763||America's classic sweet baked treat with chips
+D0766||Maine's shellfish in a buttered bun
+D0774||America's fried chicken on crisp grid cakes
+D0775||Chicago's tall, thick pizza
+D0781||Mexico City's spit-roasted pork in corn tortillas
+D0800||Jamaica's national dish of a buttery fruit and salt cod
+D0818||A thick purple berry smoothie topped with granola
+D0899||Australia's hand-held minced beef pie
+B0012||A frothy cocktail of American whiskey, lemon and sugar
+B0015||Italy's orange aperitivo with prosecco and soda
+B0018||A vodka and coffee cocktail
+B0019||A juniper spirit topped with quinine mixer
+B0022||An agave spirit with orange juice and sinking grenadine
+B0028||Bermuda's rum and ginger beer highball
+B0033||Kentucky's bourbon drink with a fresh herb
+B0039||A bright electric-coloured vodka cocktail
+B0067||Britain's summer fruit punch with lemonade
+B0104||Scotland's malt spirit
+B0106||Ireland's smooth triple-distilled spirit
+B0107||Japan's oak-aged malt spirit
+B0152||A warm drink of melted cocoa and milk
+B0153||Japan's green tea with steamed milk
+B0161||Hong Kong's strong silky tea with evaporated milk
+B0165||Morocco's sweet green tea with a fresh herb
+B0172||Kashmir's rosy salted milk tea
+B0182||A fizzy American soda with a scoop of vanilla ice cream
+B0187||The Caribbean's spicy fizzy root drink
+B0216||India's fizzy citrus soda, sweet or salted
+B0229||Hyderabad's creamy café tea of Persian origin
+B0240||Clear liquid from a green tender nut
+B0241||Fresh juice from crushed cane
+B0242||India's spiced thin churned yogurt drink
+D0346|blended herbs; sandwich spread|Fresh dip of blended herbs, served with kebabs and samosas
+D0460||Thailand's coconut-milk curry made with fresh chillies and basil
+D0597||French bistro beef with fries
+D0775||Chicago's tall, thick pie with sauce on top
+B0012||A frothy cocktail of bourbon, lemon and sugar
+B0161||Strong silky tea with evaporated milk, from cha chaan teng cafés
+D0135|Tamil home cooking; served with rice|
+D0167|brown fudge; sugar-coated; Karnataka sweet shop|
+D0286|savoury pancake; ajwain-spiced batter; quick breakfast|
+D0320|deep-fried balls; dark garlicky sauce|
+D0327|spicy scramble; buttered pav; Mumbai street|
+D0411|crisp-bottomed; soy-vinegar dip; Japanese|
+D0421|ginger-soy marinade; lemon wedge; izakaya|
+D0428|crisp edges; Japanese|
+D0564|garlic-rubbed; olive oil; antipasto|
+D0572|creamy or grilled; cornmeal porridge|
+D0583|flaky; crescent-shaped; Paris bakery|
+D0594|crispy skin; south-west France|
+D0724|pleated; peppery broth inside; eaten by hand|
+D0730|garlic; olive oil; Greek dip|
+B0011|sugar; mint sprig; highball|
+B0032|brown sugar; whipped cream|
+B0127|orchard fruit; pint glass; West Country|
+B0128|scoby culture; sour-sweet; health drink|
+B0145|long black; diluted espresso|
+B0146|espresso cup; Italian|
+B0147|cocoa; whipped cream; café drink|
+B0174|sugar; ginger; roadside tapri|
+B0175|rice; almond; Mexican cooler|
+B0216|sugar; salt; masala option|
+B0234|green mango; black salt; summer cooler|
+B0238|black salt; mustard; North Indian winter|

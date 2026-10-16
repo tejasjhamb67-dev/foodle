@@ -1,0 +1,207 @@
+D0784|dark rich sauce; Puebla|Puebla's dark sauce of chillies and chocolate over turkey
+D0786|steamed parcels; Mexican|Mexico's steamed corn-dough parcels in husks
+D0787|folded cheesy tortilla; Mexican|Mexico's folded tortilla with melted cheese
+D0788|big wrapped tortilla; Tex-Mex|A big flour tortilla wrapped around rice, beans and meat
+D0789|hominy stew; Mexican|Mexico's hominy and pork stew
+D0790|tortilla chips in salsa; Mexican breakfast|Mexico's fried tortilla chips simmered in salsa
+D0791|slow-roasted pork; Yucatán|Yucatán's achiote-marinated slow-roasted pork
+D0792|corn on the cob; Mexican street food|Mexico's grilled corn with mayo, cheese and chilli
+D0793|stew for tacos with dipping broth; Jalisco|Jalisco's spiced goat stew, often in tacos with broth
+D0794|crispy shredded pork; Michoacán|Mexico's pork slow-cooked in lard until crisp
+D0795|ranch-style eggs; Mexican breakfast|Mexico's fried eggs on tortillas with salsa
+D0796|milk-soaked cake; Latin American|A sponge cake soaked in three kinds of milk
+D0799|spicy smoky chicken; Jamaican|Jamaica's spicy, smoky grilled chicken
+D0800|national dish; Jamaican breakfast|Jamaica's national dish of ackee fruit and salt cod
+D0802|'old clothes'; Cuban|Cuba's shredded beef stew
+D0803|pressed sandwich; Miami|Cuba's pressed sandwich of pork, ham and cheese
+D0806|citrus-cured fish; Peruvian|Peru's raw fish cured in lime
+D0807|stir-fry with fries; Chinese-Peruvian|Peru's beef stir-fry with fries and rice
+D0811|rotisserie chicken; Peruvian|Peru's spiced rotisserie chicken
+D0812|black bean stew; Brazilian|Brazil's black bean and pork stew
+D0813|chewy cheese bread; Brazilian|Brazil's chewy cheese bread balls
+D0814|fish stew; Bahia|Brazil's coconut fish stew
+D0815|grilled beef cap; Brazilian steakhouse|Brazil's prized grilled rump cap
+D0816|chocolate truffle balls; Brazilian party sweet|Brazil's chocolate fudge balls
+D0817|chicken croquette; Brazilian|Brazil's teardrop-shaped chicken croquette
+D0818|purple smoothie bowl; Brazilian|A thick purple berry smoothie bowl
+D0820|barbecue; Argentine|Argentina's barbecue of grilled meats
+D0821|baked or fried pastry; Argentine|Argentina's filled pastry turnovers
+D0822|green sauce; Argentine|Argentina's parsley and oregano sauce for grilled meat
+D0823|breaded cutlet; Argentine|Argentina's breaded beef cutlet
+D0824|sandwich cookies; Argentine|Argentina's cookies sandwiching dulce de leche
+D0826|corn cakes; Venezuelan|Venezuela's corn patties split and stuffed
+D0828|loaded platter; Colombian|Colombia's huge platter of beans, meats, egg and avocado
+D0833|chickpea dip; Middle Eastern|The Middle East's chickpea and tahini dip
+D0834|fried balls; Middle Eastern street food|Fried chickpea or fava bean balls
+D0835|spit-roasted meat wrap; Levantine|The Levant's spit-roasted meat wrap with garlic sauce
+D0836|herb salad; Lebanese|Lebanon's parsley and bulgur salad
+D0837|bread salad; Lebanese|Lebanon's salad with crisp pita and sumac
+D0838|smoky dip; Levantine|The Levant's smoky aubergine dip
+D0839|fried torpedoes; Levantine|The Levant's fried bulgur shells stuffed with meat
+D0840|herb flatbread; Lebanese breakfast|Lebanon's flatbread with za'atar
+D0841|eggs in sauce; North African and Middle Eastern|Eggs poached in spiced tomato and pepper sauce
+D0843|national dish; Jordanian|Jordan's lamb in fermented yogurt sauce over rice
+D0844|flipped pot; Palestinian|Palestine's layered rice dish flipped upside down
+D0846|cheese pastry in syrup; Levantine|The Levant's cheese pastry soaked in syrup
+D0847|spiced rice; Saudi|Saudi Arabia's spiced rice with chicken
+D0851|smoked meat and rice; Yemeni|Yemen's slow-cooked meat over fragrant rice
+D0855|herb stew; Persian|Iran's herb stew with beans and lamb
+D0856|walnut-pomegranate stew; Persian|Iran's sweet-sour walnut and pomegranate stew
+D0861|carb-heavy street dish; Egyptian|Egypt's rice, lentils and pasta with tomato sauce
+D0862|fava bean breakfast; Egyptian|Egypt's stewed fava beans
+D0865|slow-cooked stew in a conical pot; Moroccan|Morocco's slow-cooked stew in a conical clay pot
+D0866|steamed grains; North African|North Africa's steamed semolina grains with stew
+D0867|soup; Moroccan|Morocco's lentil and chickpea soup for Ramadan
+D0868|sweet-savoury pie; Moroccan|Morocco's sweet-savoury pigeon pie
+D0871|spongy flatbread with stew; Ethiopian|Ethiopia's spicy chicken stew on sour flatbread
+D0874|red rice; West African|West Africa's tomato-and-pepper rice
+D0876|melon seed soup; Nigerian|Nigeria's melon-seed soup with greens
+D0880|pounded dough; West African|West Africa's pounded starchy dough eaten with soup
+D0883|fish and rice; Senegalese national dish|Senegal's fish and rice in tomato sauce
+D0886|baked mince with custard; South African|South Africa's curried mince with egg custard top
+D0887|curry in bread; Durban|Durban's curry served in a hollowed loaf
+D0888|dried meat; South African|South Africa's air-dried meat
+D0893|grilled meat; Kenyan|Kenya's grilled meat
+D0899|pie; Australian|Australia's hand-held minced meat pie
+D0900|meringue dessert; Australia and New Zealand|A meringue cake topped with cream and fruit
+D0901|coconut cake squares; Australian|Australia's chocolate-coconut sponge squares
+D0902|toast with a dark spread; Australian|Australian toast with a salty yeast spread
+D0909|raw fish bowl; Hawaiian|Hawaii's raw fish rice bowl
+B0001|Cuban highball; minty|Cuba's minty rum highball
+B0002|salted rim; Mexican|Mexico's tequila-lime cocktail with a salted rim
+B0003|creamy tropical; Puerto Rico|Puerto Rico's creamy coconut-pineapple rum cocktail
+B0004|stirred whiskey; sugar and bitters|A stirred whiskey drink with sugar and bitters
+B0005|stirred; cocktail glass; James Bond|A stirred gin and vermouth cocktail
+B0006|bitter red; equal parts|Italy's bitter red cocktail in equal parts
+B0007|pink cocktail; Sex and the City|A pink vodka-cranberry cocktail
+B0008|Cuban rum sour|Cuba's rum, lime and sugar cocktail
+B0009|stirred whiskey; New York|A stirred whiskey and sweet vermouth cocktail
+B0010|savoury brunch cocktail|A savoury vodka and tomato cocktail
+B0011|copper mug; ginger|A vodka and ginger beer cocktail in a copper mug
+B0012|frothy sour|A whiskey, lemon and sugar sour
+B0013|tiki cocktail|A tiki rum cocktail with almond syrup
+B0014|tastes like tea; no tea|A strong mix of four spirits topped with cola
+B0015|orange spritz; Italian aperitivo|Italy's orange aperitivo spritz
+B0016|Brazil's national cocktail|Brazil's cachaça and lime cocktail
+B0017|frothy sour; Peru|Peru's frothy brandy sour
+B0018|coffee cocktail; London|A vodka and espresso cocktail
+B0019|highball; British|Gin topped with tonic
+B0020|tall gin fizz|A tall, fizzy gin and lemon drink
+B0021|fruity vodka cocktail|A fruity vodka cocktail with peach and cranberry
+B0022|layered sunrise colours|Tequila and orange juice with sinking grenadine
+B0023|peach and bubbles; Venice|Venice's peach and prosecco cocktail
+B0024|brunch drink; bubbles|Sparkling wine with orange juice
+B0025|gin and bubbles; French|A gin, lemon and champagne cocktail
+B0026|brandy sour; French|A brandy, orange liqueur and lemon cocktail
+B0027|gin sour; British navy|A gin and lime cordial cocktail
+B0028|dark rum highball; Bermuda|Bermuda's dark rum and ginger beer highball
+B0029|grapefruit highball; Mexican|Mexico's tequila and grapefruit soda highball
+B0030|creamy coffee cocktail; The Big Lebowski|A vodka, coffee liqueur and cream cocktail
+B0032|hot coffee cocktail; Irish|Hot coffee with whiskey, topped with cream
+B0033|bourbon and mint; Kentucky Derby|Kentucky's bourbon and mint drink
+B0039|bright blue cocktail|A bright blue vodka cocktail
+B0041|pink gin cocktail; Singapore|Singapore's fruity pink gin cocktail
+B0050|Bond's martini|A martini of gin, vodka and Lillet
+B0062|spiced beer cocktail; Mexican|Mexico's spiced, salted beer with lime
+B0063|fruity wine punch; Spanish|Spain's fruity red wine punch
+B0067|summer fruit cup; British|Britain's summer fruit cup with lemonade
+B0068|hot whisky drink for colds|A hot whisky drink with honey and lemon
+B0069|hot spiced wine; Christmas markets|Hot red wine spiced for winter
+B0070|creamy Christmas drink|A creamy, spiced egg drink for Christmas
+B0072|passion fruit cocktail; London|A passion fruit vodka cocktail with a prosecco shot
+B0077|layered shot|A three-layer coffee and cream liqueur shot
+B0078|party shot; German|A herbal liqueur shot dropped into energy drink
+B0080|rice wine; Japanese|Japan's brewed rice wine
+B0081|clear spirit; Korean|Korea's clear spirit drunk with food
+B0082|strongest spirit; Chinese|China's strong sorghum spirit
+B0083|milky rice wine; Korean|Korea's cloudy, milky rice wine
+B0084|agave spirit; Mexican|Mexico's blue agave spirit
+B0085|smoky agave spirit; Mexican|Mexico's smoky agave spirit
+B0086|grape brandy; Andes|Peru and Chile's clear grape brandy
+B0088|aniseed spirit; Greek|Greece's anise spirit that turns cloudy with water
+B0089|aniseed spirit; Turkish|Turkey's anise spirit that turns milky with water
+B0091|grape spirit; Italian|Italy's spirit distilled from grape skins and seeds
+B0092|lemon liqueur; Amalfi|Italy's sweet lemon liqueur
+B0093|green fairy|A strong green anise and wormwood spirit
+B0095|grape brandy; French|France's aged grape brandy
+B0097|sparkling wine; French|France's famous sparkling wine
+B0098|sparkling wine; Italian|Italy's sparkling wine from the Veneto
+B0099|fortified wine; Portuguese|Portugal's sweet fortified wine
+B0100|fortified wine; Spanish|Spain's fortified wine
+B0104|whisky; Scottish|Scotland's whisky
+B0105|whiskey; American|America's corn whiskey
+B0106|whiskey; Irish|Ireland's smooth whiskey
+B0107|whisky; Japanese|Japan's whisky
+B0108|sugarcane spirit; Caribbean|The Caribbean's sugarcane spirit
+B0109|juniper spirit; British|The juniper-flavoured spirit
+B0110|clear neutral spirit; Russian and Polish|The clear, neutral spirit of Russia and Poland
+B0115|cashew spirit; Goa|Goa's cashew-apple spirit
+B0117|palm sap drink; Kerala toddy shop|South India's fermented palm sap
+B0127|fermented fruit drink; English|Britain's fermented apple drink
+B0128|fizzy fermented tea|Fizzy fermented tea
+B0130|salty yogurt drink; Turkish|Turkey's salty yogurt drink
+B0135|dark beer; Irish|Ireland's dark, creamy beer
+B0141|short strong coffee; Italian|Italy's short, strong coffee
+B0142|coffee with foam; Italian breakfast|Italy's espresso with foamed milk
+B0143|milky coffee; Italian|Italy's milky espresso drink
+B0144|velvety coffee; Australian|Australia's velvety espresso with microfoam
+B0145|diluted espresso|Espresso topped up with hot water
+B0146|espresso marked with foam|Espresso with a dot of milk foam
+B0147|chocolate coffee|Espresso with chocolate and steamed milk
+B0148|unfiltered coffee; Turkish|Turkey's unfiltered coffee brewed in a small pot
+B0150|half and half coffee; Spanish|Spain's espresso cut with warm milk
+B0151|whipped coffee; lockdown trend|Korea's whipped instant coffee over milk
+B0152|sweet cocoa drink|Hot drink of melted chocolate and milk
+B0153|green milky drink; Japanese|Japan's green tea latte
+B0154|whisked green tea; Japanese ceremony|Japan's whisked powdered green tea
+B0158|semi-oxidised tea; Taiwan and Fujian|China and Taiwan's partly oxidised tea
+B0160|chewy pearls; Taiwanese|Taiwan's milk tea with chewy tapioca pearls
+B0161|silky milk tea; Hong Kong|Hong Kong's strong silky milk tea
+B0162|pulled tea; Malaysian|Malaysia's frothy pulled milk tea
+B0163|herbal infusion; Argentine|Argentina's herbal drink sipped through a metal straw
+B0164|red bush tea; South African|South Africa's caffeine-free red bush tea
+B0165|sweet mint tea; Moroccan|Morocco's sweet green tea with fresh mint
+B0169|ruby herbal tea; Egyptian|Egypt's tart ruby flower tea
+B0171|turmeric milk; Indian home remedy|India's warm turmeric milk
+B0172|pink salted tea; Kashmiri|Kashmir's pink salted milk tea
+B0173|black tea; Malabar|Malabar's spiced black tea with lemon
+B0174|half glass of tea; Mumbai|Mumbai's strong half-glass of milky tea
+B0175|rice milk drink; Mexican|Mexico's cinnamon rice milk
+B0178|lemon drink; summer stand|Sweetened lemon juice with water
+B0179|chilled tea|Chilled black tea with lemon
+B0180|half and half; golf legend|Half lemonade, half iced tea
+B0181|blended milk drink|A thick blend of milk and ice cream
+B0182|soda with ice cream; American|Root beer with a scoop of vanilla ice cream
+B0184|foamy iced coffee; Greek|Greece's foamy shaken iced coffee
+B0185|slow-steeped coffee|Coffee steeped cold for hours
+B0187|spicy fizzy drink; Caribbean|The Caribbean's spicy fizzy ginger drink
+B0194|soda; Brazilian|Brazil's soda made from an Amazon berry
+B0196|purple drink; Peruvian|Peru's purple corn drink
+B0200|frozen lemonade; Israeli|Israel's frozen lemon and mint drink
+B0203|green jelly drink; Malaysian|Southeast Asia's iced coconut drink with green jelly
+B0210|red rose syrup; Ramadan|India's red rose-flavoured syrup drink
+B0215|blended coffee; Indian café|India's blended cold coffee
+B0216|lime soda; Indian restaurant|India's fizzy lime soda, sweet or salted
+B0217|marble-bottle soda|India's spiced soda from a marble-sealed bottle
+B0219|kids' cocktail; Hollywood|A non-alcoholic grenadine and ginger ale drink
+B0224|purple tangy drink; gola|India's tangy black-plum drink
+B0225|yogurt drink; Punjab|Punjab's yogurt drink
+B0226|roasted gram drink; Bihar|Bihar's cooling roasted gram flour drink
+B0227|pink coconut drink; Konkan|The Konkan coast's pink coconut-kokum drink
+B0228|South Indian coffee|South India's frothy milk coffee from a steel tumbler
+B0229|creamy tea; Hyderabad Irani café|Hyderabad's creamy Irani café tea
+B0230|saffron green tea; Kashmiri|Kashmir's saffron and almond green tea
+B0231|salted pink tea; Kashmiri|Kashmir's salty pink tea
+B0232|spiced milk tea|India's spiced milk tea
+B0233|lemon water; summer|India's sweet-salty lemon water
+B0234|raw mango cooler; summer|India's raw mango summer drink
+B0235|cumin water; summer|India's tangy cumin-mint drink
+B0236|spiced milk; Holi|India's spiced nut milk for Holi
+B0237|almond milk|India's saffron almond milk
+B0238|fermented carrot drink; Holi|North India's fermented black-carrot drink
+B0240|tender nut drink|Water from a green coconut
+B0241|crushed cane juice|Fresh juice from crushed sugarcane
+B0242|spiced churned drink; chaas|India's spiced thin buttermilk
+B0243|mango yogurt drink|Yogurt drink blended with mango
+B0244|orange iced tea; Thai|Thailand's sweet orange iced tea
+B0245|drip coffee; Vietnamese|Vietnam's drip coffee with condensed milk

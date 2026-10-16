@@ -1,0 +1,130 @@
+D0174|tangy nutty gravy; biryani side; Hyderabad|Hyderabad's chilli curry in a tangy peanut-sesame gravy, served with biryani
+D0175|bread pudding; fried bread soaked in milk; wedding dessert|Hyderabad's fried-bread pudding soaked in saffron milk
+D0176|stewed fruit; topped with cream; Hyderabadi weddings|Hyderabad's stewed apricot dessert
+D0177|green lentil crepe; served with upma inside|Andhra's green moong crepe, often with upma
+D0178|sour leaf chutney; Andhra pride|Andhra's tangy sorrel-leaf relish
+D0179|sour leafy curry; meat; Andhra|Andhra's tangy sorrel-leaf mutton curry
+D0180|fiery green and red; Andhra heat|Andhra's fiery chicken fry with Guntur chillies
+D0181|festival rice; tangy; temple offering|Andhra's tangy tamarind rice for festivals
+D0183|stuffed brinjals; nutty gravy|Andhra's brinjals stuffed with a peanut-sesame masala
+D0189|tea-time cookie; salty-sweet; Irani café|Hyderabad's salty-sweet butter biscuit dunked in Irani chai
+D0191|slow-fried dark gravy; Sunday lunch; Bengal|Bengal's slow-cooked, dark, spicy mutton
+D0192|pungent mustard sauce; prized river fish|Bengal's hilsa in sharp mustard sauce
+D0193|light everyday fish stew; with rice|Bengal's light everyday fish curry
+D0194|creamy coconut curry; jumbo prawns|Bengal's prawns in a creamy coconut gravy
+D0195|with a whole potato; Awadhi roots|Kolkata's fragrant biryani with potato and egg
+D0196|flatbread wrap; street roll; Nizam's|Kolkata's flatbread wrap with egg and grilled chicken
+D0197|puffed rice mix; sold in paper cones; Kolkata|Kolkata's spicy puffed rice tossed in mustard oil
+D0198|puffed fried bread; spicy potato curry|Bengal's puffed fried bread with spicy potato curry
+D0199|bitter starter; first course; Bengal|Bengal's bitter-sweet mixed vegetable starter
+D0200|fried slices; crisp; Bengal side|Bengal's crisp pan-fried brinjal slices
+D0201|nutty white paste; Bengal|Bengal's potatoes in poppy-seed paste
+D0203|set in earthen pot; caramel sweet|Bengal's sweet, caramelised set yogurt
+D0204|syrup-soaked spongy balls; white|Bengal's spongy cottage-cheese balls in syrup
+D0205|delicate cheese sweet; moulded|Bengal's delicate moulded cottage-cheese sweet
+D0209|crumbed fillet; mustard dip; Kolkata cabin snack|Kolkata's crumbed fish cutlet with kasundi
+D0210|yellow pea curry; street snack|Bengal's spiced dried-pea curry
+D0214|lentils and vegetables; temple food; Odisha|Odisha's lentil-vegetable stew
+D0215|water rice; summer food; Odisha|Odisha's fermented water rice eaten in summer
+D0216|baked cheese cake; burnt top; Odisha|Odisha's baked, caramelised cottage-cheese dessert
+D0220|sour light fish curry; Assam|Assam's light, sour fish curry
+D0222|rice cakes; harvest festival; Assam|Assam's rice cakes made for Bihu
+D0224|steamed dumplings; spicy red chutney; hill street food|Steamed dumplings from the Himalayan hills, now all over India
+D0225|noodle soup; Himalayan|Himalayan noodle soup with vegetables or meat
+D0226|ring-shaped; sweet fried rice bread; Nepali festival|A ring of sweet fried rice batter, made for Tihar and Dashain
+D0229|smoky pork; fiery chilli; Naga|Nagaland's smoked pork with fermented bamboo shoot
+D0235|deep red curry; Kashmiri Wazwan|Kashmir's aromatic red lamb curry
+D0236|white yogurt curry; Kashmiri|Kashmir's mild yogurt-based mutton curry
+D0237|meatballs in yogurt; final course of a Wazwan feast|Kashmir's velvety pounded-meat balls in yogurt gravy
+D0239|small potatoes; red gravy; Kashmiri Pandit|Kashmir's fried baby potatoes in a red yogurt gravy
+D0242|steamed stuffed bread; Himachal|Himachal's steamed, stuffed wheat bread
+D0244|yogurt curry; Himachali feast|Himachal's chickpeas cooked in yogurt
+D0246|chocolate-brown fudge; white sugar coating|Almora's brown fudge rolled in sugar balls
+D0249|Indore breakfast; topped with sev|Indore's sweet-tangy flattened rice with sev
+D0251|dough balls; Malwa region|Madhya Pradesh's boiled-and-baked dough balls with dal
+D0254|savoury pancake; Chhattisgarh|Chhattisgarh's rice-flour pancake
+D0256|one-pot rice and lentils; comfort food; sick-day meal|India's comforting rice-and-lentil porridge
+D0257|fragrant rice; tempered with seeds|Basmati rice tempered with cumin seeds
+D0258|mixed vegetable rice; one-pot|Fragrant rice cooked with vegetables and whole spices
+D0259|dry home-style sabzi|Dry curry of potatoes and cauliflower
+D0260|dry sabzi; slimy if overcooked|Spiced stir-fried okra
+D0261|smoky mashed vegetable; charred on flame|Smoky, mashed fire-roasted brinjal
+D0262|green gravy; white cubes|Cottage cheese in a creamy spinach purée
+D0263|peas and cheese curry|Cottage cheese and green peas in tomato gravy
+D0264|tangy chickpea curry|North India's tangy chickpea curry
+D0265|yellow lentils; sizzling tempering; dhaba staple|Yellow lentils finished with a sizzling spice tempering
+D0267|hard-boiled eggs in gravy|Boiled eggs in a spicy onion-tomato gravy
+D0268|bone-in meat curry; Sunday special|India's everyday bone-in mutton curry
+D0270|seafood curry; coastal|Prawns in a spiced coconut-tomato gravy
+D0271|minced meat with peas|Spiced minced meat cooked with green peas
+D0272|potatoes and peas; home-style curry|Potatoes and peas in a light tomato gravy
+D0274|yogurt side dish; cooling|Cooling spiced yogurt with cucumber
+D0276|leavened flatbread; clay oven; teardrop shape|Soft, leavened tandoor-baked flatbread
+D0278|small puffed fried bread|Small, puffed deep-fried wheat bread
+D0279|large puffed fried bread; leavened; with chole|Large, fluffy fried bread served with chole
+D0280|flaky layered flatbread; circular|Many-layered, flaky wheat flatbread
+D0281|paper-thin flatbread; tossed in the air|Paper-thin flatbread cooked on an upturned wok
+D0282|triangular pastry; spicy filling; tea-time|India's fried triangular pastry with spiced potato and peas
+D0283|batter-fried fritters; rainy-day snack|Vegetables dipped in gram-flour batter and fried
+D0285|savoury semolina porridge; South Indian breakfast|Savoury semolina porridge with vegetables
+D0286|gram flour pancake; savoury|Savoury gram-flour pancake
+D0287|fried dough balls; soaked in syrup|Fried milk-solid balls soaked in rose-cardamom syrup
+D0288|soft cheese discs; saffron milk|Soft cottage-cheese discs soaked in saffron milk
+D0289|rice pudding; festival dessert|Indian rice pudding slow-cooked in milk
+D0290|winter dessert; red-orange; slow-cooked|Grated carrot slow-cooked in milk and ghee
+D0291|semolina pudding; temple offering|Semolina pudding roasted in ghee
+D0292|lentil pudding; Rajasthani wedding sweet|A rich, ghee-heavy lentil pudding
+D0293|cashew fudge; Diwali gift box|Diamond-shaped cashew fudge with silver leaf
+D0294|gram flour balls; Diwali sweet|Round sweets of ghee-roasted gram flour
+D0295|tiny pearls; orange balls; weddings|Orange sweet balls made of tiny fried pearls
+D0296|milk fudge; squares|Dense milk fudge cut into squares
+D0297|grainy milk cake|Soft, grainy milk-cheese cake
+D0298|fried flower spiral; syrup-soaked; jalebi's cousin|Flower-shaped fried lentil spiral in syrup
+D0299|ground rice pudding; set in clay bowls|Ground-rice pudding set and served chilled in clay bowls
+D0300|vermicelli pudding; Eid|Sweet vermicelli cooked in milk for Eid
+D0301|sweet fried pancakes; Holi|Sweet fried pancakes dipped in syrup
+D0304|layered dessert drink; tall glass|A tall rose-milk dessert with vermicelli, basil seeds and ice cream
+D0305|layered and sealed; slow-steamed|Chicken and rice layered and slow-cooked in a sealed pot
+D0306|layered rice with eggs|Layered biryani with boiled eggs
+D0307|layered vegetable rice|Layered rice with spiced vegetables
+D0309|mild nutty curry; Mughlai|Chicken in a mild yogurt-cashew gravy
+D0310|everyday chicken curry|India's everyday onion-tomato chicken curry
+D0313|green kebab; vegetarian|Green spinach-and-pea patties
+D0315|frenched drumsticks; red; Indo-Chinese party snack|Frenched chicken wings fried and tossed in spicy sauce
+D0316|crispy fried florets; Indo-Chinese|Fried cauliflower tossed in Indo-Chinese sauce
+D0317|wok-tossed cheese; Indo-Chinese|Fried paneer tossed with chillies and peppers in soy sauce
+D0318|wok-tossed; street-cart favourite; Indo-Chinese|Indo-Chinese stir-fried noodles with vegetables
+D0319|vegetable balls in gravy|Fried vegetable balls in a soy-garlic sauce
+D0320|chicken balls in gravy|Indo-Chinese chicken balls in a dark, garlicky sauce
+D0321|red and fiery; Indo-Chinese|Fiery Indo-Chinese fried rice with red chilli sauce
+D0322|Kolkata Chinese; Tangra|Indo-Chinese chicken tossed with green chillies and peppers
+D0325|meat biryani; layered|Layered rice and mutton slow-cooked with spices
+D0326|scrambled cheese|Crumbled cottage cheese scrambled with spices
+D0327|spicy scrambled eggs; street cart|Spicy Indian scrambled eggs with buttered bread
+D0328|spicy breakfast eggs; chopped vegetables|An Indian omelette with onions, tomato and green chillies
+D0329|street breakfast; egg and toast|Street-style omelette folded in toasted bread
+D0330|chickpea salad; chaat|Tangy chickpea chaat with onions and tomatoes
+D0331|crisp fried cubes; Delhi chaat|Delhi's crisp fried potato cubes with chutney and chaat masala
+D0335|nine gems; mild creamy curry|A mild, creamy curry of nine vegetables, fruits and nuts
+D0341|crisp disc topped with salad; bar snack|A crisp lentil wafer topped with chopped salad
+D0343|sharp and oily; summer-made; in a ceramic jar|India's spicy raw-mango pickle in mustard oil
+D0345|white dip; with idli and dosa|South India's coconut chutney
+D0346|green dip; with kebabs and samosas|Fresh green chutney of mint
+D0347|sweet brown chutney; chaat|Sweet-sour tamarind and date chutney
+D0349|brittle bar; Lonavala|Crunchy peanut-jaggery brittle
+D0350|winter sweet; Makar Sankranti|Sesame-jaggery balls made for Sankranti
+D0352|white coconut balls|Sweet balls of coconut and condensed milk
+D0353|vermicelli pudding; Kerala|Kerala's vermicelli milk pudding with cashews
+D0354|steamed dumplings; South Indian|Tamil Nadu's steamed dumplings with sweet filling
+D0356|fried potato balls; Karnataka snack|Spiced potato balls dipped in batter and fried
+D0360|stuffed fried bread; Kolkata|Kolkata's egg-and-meat stuffed fried paratha
+D0364|crisp lacquered skin; carved at the table; Beijing|Beijing's crisp roast duck wrapped in pancakes
+D0365|spicy stir-fry; Sichuan; nuts|Sichuan's spicy stir-fried chicken with peanuts
+D0366|numbing and spicy; red oil; Sichuan|Sichuan's numbing, spicy tofu with minced pork
+D0367|soup-filled; Shanghai|Shanghai's delicate soup-filled dumplings
+D0368|translucent dumplings; Cantonese dim sum|Cantonese translucent shrimp dumplings
+D0369|open-topped dumplings; Cantonese dim sum|Cantonese open-topped pork-and-shrimp dumplings
+D0370|sticky red roast; Cantonese|Cantonese sticky, sweet roast pork
+D0371|bright sweet-sour sauce; Cantonese takeaway|Battered pork in a sweet-sour sauce
+D0372|stir-fried noodles; takeaway classic|Chinese stir-fried noodles
+D0373|egg-fried rice; Chinese classic|Chinese egg-fried rice with shrimp and roast pork

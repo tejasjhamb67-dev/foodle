@@ -1,0 +1,140 @@
+D0561|wobbly set dessert; Italian|Italy's set, wobbly vanilla cream dessert
+D0562|crisp tubes; Sicilian pastry|Sicily's crisp fried tubes filled with sweet ricotta
+D0563|Italian ice cream|Italy's dense, smooth ice cream
+D0564|toasted bread topping; Italian starter|Toasted bread rubbed with garlic and topped with tomato
+D0565|red, white and green salad; Capri|Capri's salad of tomato, mozzarella and basil
+D0566|fried rice balls; Sicilian street food|Sicily's fried, stuffed risotto balls
+D0567|flat oven bread; olive oil; Liguria|Italy's dimpled olive-oil flatbread
+D0568|chunky vegetable soup; Italian|Italy's thick vegetable and bean soup with pasta
+D0572|cornmeal porridge; northern Italian|Northern Italy's creamy cornmeal
+D0577|Italian Christmas bread|Milan's tall, fruity Christmas bread
+D0578|ice cream drowned in coffee|Ice cream with a shot of hot espresso poured over it
+D0579|stuffed pasta squares|Italy's stuffed pasta pillows
+D0580|'angry' spicy tomato pasta; Rome|Rome's pasta in a spicy, garlicky tomato sauce
+D0583|flaky crescent pastry; French breakfast|France's flaky, buttery crescent pastry
+D0584|chicken braised in wine; Burgundy|France's chicken braised in red wine
+D0585|beef stew in red wine; Burgundy|Burgundy's beef braised in red wine
+D0586|Provençal vegetable stew; Pixar film|Provence's stewed summer vegetables
+D0587|baked soup with cheesy toast lid|France's caramelised onion soup with melted cheese toast
+D0588|crack the sugar top; French|France's vanilla custard with a torched sugar crust
+D0589|fish stew; Marseille|Marseille's saffron fish stew
+D0590|savoury tart; Lorraine|France's savoury egg-and-bacon tart
+D0591|thin pancakes; Brittany|France's thin pancakes
+D0592|grilled ham and cheese; Paris café|France's grilled ham-and-cheese sandwich with béchamel
+D0593|garlic-butter shells; French starter|France's snails baked in garlic-herb butter
+D0594|duck leg cooked in its fat; Gascony|Gascony's duck leg slow-cooked in its own fat
+D0595|bean stew; Languedoc|Southern France's slow-baked white bean and meat stew
+D0596|salad; Nice|Nice's salad of tuna, egg, olives and anchovies
+D0597|steak and chips; bistro|French bistro steak with fries
+D0598|upside-down tart; caramelised fruit|France's upside-down caramelised apple tart
+D0599|colourful sandwich cookies; Paris|Paris's colourful almond meringue sandwich cookies
+D0600|long thin loaf; French|France's long, crusty loaf
+D0601|chocolate-filled pastry; French breakfast|A flaky French pastry with a chocolate bar inside
+D0602|puffs up in the oven; French|France's light, risen baked egg dish
+D0603|steamed shellfish; French|France's mussels steamed in white wine
+D0606|creamy baked potatoes; French|France's creamy baked sliced potatoes
+D0608|long choux pastry; French|A long choux pastry filled with cream and topped with chocolate
+D0609|cream puffs; French|Cream-filled choux puffs with chocolate sauce
+D0614|shared melted-cheese pot; Swiss|Switzerland's pot of melted cheese for dipping bread
+D0615|melted cheese scraped onto potatoes; Swiss|Switzerland's melted cheese scraped over potatoes
+D0616|crisp potato cake; Swiss|Switzerland's crisp grated-potato cake
+D0618|rice pan; Valencia|Valencia's saffron rice cooked in a wide pan
+D0620|potato omelette; Spanish|Spain's thick potato omelette
+D0621|cold soup; Andalusia|Andalusia's chilled tomato soup
+D0622|tapas; spicy|Spain's fried potatoes with spicy sauce
+D0623|fried dough sticks; Spanish breakfast|Spain's fried dough sticks dipped in chocolate
+D0624|sizzling garlic prawns; tapas|Spain's prawns sizzled in garlic and olive oil
+D0625|cured ham; Spanish|Spain's prized cured ham
+D0626|fried croquettes; tapas|Spain's creamy fried croquettes
+D0634|custard tart; Lisbon|Portugal's custard tart with a blistered top
+D0635|salt cod scramble; Lisbon|Portugal's salt cod scrambled with egg and potato
+D0636|meat sandwich drowned in sauce; Porto|Porto's meat-stacked sandwich in beer sauce
+D0637|green soup; Portuguese|Portugal's potato and kale soup with sausage
+D0638|spicy grilled chicken; Portuguese|Portugal's chilli-marinated grilled chicken
+D0641|battered fish; British seaside|Britain's battered fish with chips
+D0642|big breakfast plate; British|Britain's cooked breakfast
+D0643|meat pie with mash on top; British|Britain's minced lamb pie topped with mashed potato
+D0644|weekend family roast; British|Britain's weekend roast with all the trimmings
+D0645|beef in pastry; British|Beef fillet wrapped in mushroom and pastry
+D0646|sausages and mash; British pub|Britain's sausages with mashed potato and gravy
+D0647|crimped pastry; Cornwall|Cornwall's crimped beef-and-vegetable pastry
+D0648|egg in sausage meat; British picnic|A boiled egg wrapped in sausage meat, crumbed and fried
+D0650|date sponge; British|Britain's date sponge with toffee sauce
+D0651|cream tea; British|Britain's baked rounds served with jam and cream
+D0652|layered dessert; British|Britain's layered sponge, jelly, custard and cream dessert
+D0654|jam-and-cream sandwich cake; British|Britain's jam-and-cream sandwich sponge
+D0655|Scottish; Burns Night|Scotland's savoury pudding of sheep offal and oats
+D0659|lamb stew; Irish|Ireland's lamb and potato stew
+D0662|breaded veal cutlet; Vienna|Vienna's breaded veal cutlet
+D0663|rolled pastry; Austrian|Austria's thin-pastry apple roll
+D0664|chocolate cake; Vienna|Vienna's chocolate cake with apricot jam
+D0667|grilled sausage; German|Germany's grilled pork sausage
+D0668|sausage with curry ketchup; Berlin|Berlin's sliced sausage with curry ketchup
+D0669|pot roast; German|Germany's marinated pot roast
+D0670|crispy knuckle; Bavaria|Bavaria's roast pork knuckle
+D0671|twisted bread; German|Germany's twisted, salted bread knot
+D0672|soft egg noodles; Swabian|Germany's soft egg noodles
+D0674|cherry chocolate cake; German|Germany's chocolate-cherry cream cake
+D0675|fermented cabbage; German|Germany's fermented shredded cabbage
+D0680|thick waffles; Belgium|Belgium's thick waffles
+D0682|caramel waffle cookie; Dutch|The Netherlands' thin waffles sandwiching caramel syrup
+D0686|meatballs with cream sauce; Swedish|Sweden's meatballs with lingonberry and cream sauce
+D0687|cured salmon; Nordic|Scandinavia's salt-sugar cured salmon
+D0688|open sandwiches; Danish|Denmark's open-faced sandwiches on rye
+D0689|swirled bun; Swedish fika|Sweden's cinnamon-cardamom swirled bun
+D0690|flaky pastry; Danish|Denmark's flaky pastry with custard or fruit
+D0695|paprika stew; Hungarian|Hungary's paprika beef stew
+D0696|paprika chicken; Hungarian|Hungary's chicken in paprika sour cream sauce
+D0697|fried flatbread; Hungarian street food|Hungary's fried flatbread topped with sour cream and cheese
+D0700|filled dumplings; Polish|Poland's filled dumplings
+D0701|hunter's stew; Polish|Poland's sauerkraut and meat stew
+D0704|red soup; Ukrainian|Ukraine's beetroot soup
+D0705|butter-filled cutlet; Ukrainian|Ukraine's breaded chicken filled with garlic butter
+D0708|creamy beef; Russian|Russia's beef in mushroom sour cream sauce
+D0709|small dumplings; Russian|Russia's small meat dumplings
+D0710|small pancakes; Russian|Russia's small pancakes with sour cream and caviar
+D0711|potato salad; Russian New Year|Russia's mayonnaise potato salad
+D0717|grilled sausages; Balkan|The Balkans' grilled minced meat fingers in flatbread
+D0718|coiled pastry; Balkan|The Balkans' coiled filo pie filled with meat
+D0721|filo pastry; Bulgarian breakfast|Bulgaria's cheese-and-egg filo pastry
+D0723|cheese bread; Georgian|Georgia's boat-shaped cheese bread with egg
+D0724|soup dumplings; Georgian|Georgia's twisted soup-filled dumplings
+D0725|layered bake; Greek|Greece's layered aubergine and lamb bake
+D0726|village salad; Greek|Greece's salad of tomato, cucumber, olives and feta
+D0727|skewers in pita; Greek|Greece's grilled pork skewers
+D0728|rotisserie meat in pita; Greek|Greece's rotisserie meat wrapped in pita
+D0729|spinach pie; Greek|Greece's spinach and feta filo pie
+D0730|yogurt dip; Greek|Greece's yogurt, cucumber and garlic dip
+D0731|stuffed leaves; Greek|Greece's stuffed vine leaves
+D0736|layered nut pastry; Turkish|Layers of filo, nuts and syrup
+D0737|rotisserie meat wrap; Turkish|Turkey's rotisserie meat in bread
+D0738|Bursa; döner over bread|Bursa's döner over bread with tomato sauce and butter
+D0739|spicy minced kebab; Turkish|Turkey's spicy minced lamb kebab
+D0740|thin meat flatbread; Turkish|Turkey's thin flatbread topped with spiced minced meat
+D0745|chewy cubes dusted with sugar; Turkish|Turkey's chewy rose-scented cubes
+D0750|burger; American|America's beef patty in a bun
+D0751|sausage in a bun; American|America's frankfurter in a bun
+D0752|spicy wings; Buffalo, New York|Buffalo's spicy fried chicken wings
+D0753|cheesy pasta bake; American|America's macaroni in cheese sauce
+D0754|smoked ribs; American barbecue|America's smoked, sauced pork ribs
+D0755|shredded smoked pork; American barbecue|America's slow-smoked shredded pork
+D0756|creamy shellfish soup; New England|New England's creamy clam soup
+D0757|steak sandwich; Philadelphia|Philadelphia's sliced steak and cheese sandwich
+D0758|fruit pie; American|America's classic apple pie
+D0759|stack for breakfast; American|America's fluffy breakfast stack
+D0760|crispy fried chicken; American South|America's crisp fried chicken
+D0761|cream cheese dessert; New York|New York's dense cream-cheese cake
+D0762|fudgy chocolate squares; American|America's fudgy chocolate squares
+D0763|cookies; American|America's classic cookies with chocolate chips
+D0764|stew over rice; Louisiana|Louisiana's thick seafood and sausage stew
+D0765|spicy rice; Louisiana|Louisiana's spicy rice with sausage and shrimp
+D0766|seafood sandwich; Maine|Maine's lobster in a buttered bun
+D0768|romaine salad; Tijuana|A romaine salad with creamy anchovy dressing and croutons
+D0771|tart citrus pie; Florida|Florida's tart citrus pie
+D0773|battered sausage on a stick; American fair|A frankfurter on a stick in cornmeal batter
+D0774|sweet-savoury combo; American soul food|America's fried chicken on waffles
+D0775|tall pizza; Chicago|Chicago's tall, deep pizza
+D0776|fries with gravy; Québec|Québec's fries with cheese curds and gravy
+D0781|tacos; Mexico City|Mexico City's spit-roasted pork tacos
+D0782|green dip; Mexican|Mexico's avocado dip
+D0783|rolled tortillas baked in sauce; Mexican|Mexico's rolled tortillas in chilli sauce

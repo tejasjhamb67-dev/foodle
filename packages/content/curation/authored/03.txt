@@ -1,0 +1,140 @@
+D0374|shared at the table|A bubbling pot of spicy broth for cooking meat and vegetables at the table
+D0375|Sichuan street noodles|Sichuan's noodles in spicy sesame-chilli sauce with minced pork
+D0376|Beijing noodles; dark sauce|Beijing's noodles with a savoury fermented soybean-pork sauce
+D0377|hand-pulled; Muslim noodle shops|Lanzhou's clear beef broth with hand-pulled noodles
+D0378|boiled then stir-fried; Sichuan|Sichuan pork belly boiled, sliced and stir-fried with bean paste
+D0379|Sichuan; garlicky sweet-sour sauce|Sichuan's braised aubergine in a sweet, sour and spicy sauce
+D0381|braised glossy cubes; Hangzhou; named after a poet|Hangzhou's slow-braised pork belly cubes
+D0382|boiled dumplings; Chinese New Year|Boiled northern Chinese dumplings
+D0383|fluffy steamed bun; filled|Fluffy Chinese steamed buns with meat filling
+D0384|rice porridge; breakfast|Chinese rice porridge with savoury toppings
+D0385|Hong Kong noodle soup|Hong Kong's noodle soup with shrimp dumplings
+D0386|flaky tart; Hong Kong bakery|A flaky tart with smooth baked egg custard
+D0387|festival pastry; moon-shaped|Rich round pastries filled with lotus paste for the Mid-Autumn Festival
+D0388|sweet dumplings in syrup; Lantern Festival|Glutinous rice balls with sweet filling in ginger syrup
+D0389|pyramid parcels; Dragon Boat Festival|Sticky rice parcels wrapped in bamboo leaves
+D0390|Singapore hawker classic|Poached chicken with fragrant rice cooked in chicken fat
+D0391|flaky flatbread; street snack|A flaky, chewy Chinese pancake full of spring onions
+D0392|street crepe; morning|A Chinese street crepe with egg and a crisp cracker
+D0394|hunt for chicken in chillies; Chongqing|Chongqing's crisp chicken buried in dried chillies
+D0396|whole fish; Cantonese steaming|A whole fish steamed and finished with sizzling ginger and spring onion
+D0397|pungent smell; night market|Fermented tofu with a famously strong smell, deep fried
+D0398|rolled rice sheets; dim sum|Silky rolled rice-noodle sheets with soy sauce
+D0401|rolled or pressed; Japanese|Japan's vinegared rice with raw fish
+D0402|no rice; Japanese|Thin slices of raw fish served plain
+D0403|noodle soup; Japanese|Japan's noodle soup with rich broth and toppings
+D0405|light crisp fry; Japanese|Seafood and vegetables in feather-light batter, fried
+D0406|breaded cutlet; Japanese|Japan's breaded, deep-fried pork cutlet
+D0407|thick noodles; Japanese|Japan's thick wheat noodles in dashi broth
+D0408|grey noodles; served cold or hot|Japan's buckwheat noodles
+D0409|savoury pancake; Osaka|Osaka's savoury cabbage pancake with sauce and mayo
+D0410|ball-shaped; Osaka street food|Osaka's batter balls with octopus inside
+D0411|crisp-bottomed dumplings|Japanese pan-fried dumplings
+D0412|grilled skewers; izakaya|Japanese grilled chicken skewers
+D0413|shiny sweet glaze; Japanese|Chicken glazed in sweet soy sauce
+D0414|everyday soup; Japanese|Japan's everyday soup of dashi and fermented soybean paste
+D0415|rice ball; lunchbox|Japanese rice ball wrapped in seaweed
+D0416|cutlet with curry; Japanese|Breaded pork cutlet with Japanese curry and rice
+D0417|beef bowl; fast food|Japanese bowl of simmered beef on rice
+D0418|'parent and child' bowl|Japanese bowl of chicken and egg simmered over rice
+D0419|swish-swish hot pot|Japanese hot pot where thin meat slices are swished in broth
+D0420|sweet soy hot pot; dipped in egg|Japanese sweet soy hot pot of beef and vegetables
+D0421|marinated fried chicken; Japanese|Japanese marinated fried chicken bites
+D0422|eel over rice; Japanese|Grilled eel glazed in sweet soy over rice
+D0424|stringy and pungent; Japanese breakfast|Japan's sticky fermented soybeans
+D0425|layered omelette; bento|Japan's sweet rolled omelette
+D0426|chewy and soft; Japanese|Soft, chewy pounded rice cakes
+D0427|pancake sandwich; Doraemon|Two pancakes sandwiching sweet red bean paste
+D0428|fish-shaped waffle; street sweet|A fish-shaped cake filled with sweet red bean paste
+D0429|green ice cream|Green tea ice cream
+D0430|wobbly and airy cake|Japan's light, jiggly soufflé cheesecake
+D0431|street noodles; festival stall|Japan's stir-fried noodles with sweet-savoury sauce
+D0435|mixed rice bowl; stone pot|Korea's mixed rice bowl with vegetables, egg and chilli paste
+D0436|spicy fermented side; Korean staple|Korea's spicy fermented cabbage
+D0437|marinated grilled beef; Korean BBQ|Korea's sweet-savoury marinated grilled beef
+D0438|extra-crisp glazed chicken; Korean|Korea's double-fried chicken with sweet-spicy glaze
+D0439|chewy cylinders in red sauce; Korean street food|Korean chewy rice cakes in sweet-spicy sauce
+D0440|stir-fried sweet potato noodles; Korean|Korea's stir-fried glass noodles with vegetables
+D0441|spicy stew; Korean|Korean stew of fermented cabbage, pork and tofu
+D0442|grilled at the table; Korean BBQ|Korean grilled pork belly wrapped in lettuce
+D0443|bubbling red stew; Korean|Korea's spicy soft-tofu stew
+D0444|grilled marinated ribs; Korean BBQ|Korea's marinated grilled short ribs
+D0445|summer soup; whole stuffed bird|Korean ginseng chicken soup
+D0446|sliced seaweed rolls; picnic food; Korean|Korea's seaweed rice rolls cut into slices
+D0447|seafood pancake; rainy day; Korean|Korean savoury seafood and spring onion pancake
+D0448|cold noodle soup; Korean summer|Korea's icy cold buckwheat noodles
+D0449|black sauce noodles; Korean-Chinese|Korean-Chinese noodles in black bean sauce
+D0450|army base stew; Korean|Korean 'army stew' with spam, sausage and noodles
+D0452|sweet filled pancake; Korean winter street food|Korea's pan-fried sweet filled pancake
+D0453|shaved ice dessert; Korean|Korea's shaved milk-ice dessert with toppings
+D0454|fried rice; Korean|Korean fried rice with fermented cabbage
+D0458|stir-fried rice noodles; Thai street food|Thailand's stir-fried rice noodles with tamarind, peanuts and egg
+D0459|hot and sour soup; Thai|Thailand's hot and sour prawn soup
+D0460|green coconut curry; Thai|Thailand's green coconut-milk curry
+D0461|red coconut curry; Thai|Thailand's red coconut-milk curry
+D0462|mild Muslim-influenced curry; Thai|Thailand's mild, rich curry with potatoes and peanuts
+D0463|thick, dry curry; Thai|Thailand's thick, rich red curry
+D0464|pounded salad; Thai|Thailand's spicy pounded green papaya salad
+D0465|coconut chicken soup; Thai|Thailand's coconut-milk chicken soup with galangal
+D0466|basil stir-fry over rice; Thai|Thailand's holy-basil stir-fry with a fried egg
+D0467|Thai fried rice|Thailand's fried rice
+D0468|sweet sticky rice; Thai|Thailand's sweet coconut sticky rice with mango
+D0469|curry noodle soup; northern Thailand|Northern Thailand's coconut curry noodle soup
+D0470|minced meat salad; Thai and Lao|Thai minced meat salad with herbs and lime
+D0471|wide noodles; dark soy; Thai|Thailand's stir-fried wide rice noodles in dark soy
+D0476|noodle soup; Vietnam|Vietnam's beef noodle soup with herbs
+D0477|sandwich; Vietnam|Vietnam's baguette sandwich
+D0478|grilled pork with noodles; Hanoi|Hanoi's grilled pork with rice noodles and dipping sauce
+D0479|fresh rolls; not fried; Vietnamese|Vietnam's fresh rice-paper rolls with shrimp
+D0480|fried spring rolls; Vietnamese|Vietnam's fried spring rolls
+D0481|spicy beef noodle soup; Hue|Hue's spicy lemongrass beef noodle soup
+D0482|broken rice plate; Saigon|Saigon's broken rice with grilled pork chop
+D0483|sizzling crepe; Vietnamese|Vietnam's crisp turmeric crepe with shrimp and sprouts
+D0487|coconut rice plate; Malaysian breakfast|Malaysia's coconut rice with sambal, anchovies and egg
+D0488|wok-fried noodles; Penang hawker|Malaysia's smoky wok-fried flat rice noodles
+D0489|curry noodle soup; Malaysian|Malaysia's spicy coconut curry noodle soup
+D0491|flaky flatbread with curry; Malaysian|Malaysia's flaky flatbread with curry
+D0492|grilled skewers; peanut sauce|Grilled meat skewers with peanut sauce
+D0493|slow-cooked dry curry; Indonesian|Indonesia's slow-cooked dry beef curry
+D0494|fried rice; Indonesian|Indonesia's sweet-soy fried rice
+D0495|fried noodles; Indonesian|Indonesia's sweet-soy fried noodles
+D0496|salad with peanut sauce; Indonesian|Indonesia's vegetable salad with peanut sauce
+D0497|yellow chicken soup; Indonesian|Indonesia's turmeric chicken soup
+D0499|stuffed pancake; Indonesian street food|Indonesia's stuffed, folded street pancake
+D0500|meatball soup; Indonesian|Indonesia's beef meatball soup
+D0502|crab in sauce; Singapore|Singapore's crab in sweet-spicy tomato chilli sauce
+D0503|breakfast toast; Singapore|Singapore's toast with coconut jam and butter
+D0504|herbal pork rib soup; Malaysian|Malaysia's peppery herbal pork rib soup
+D0505|prawn noodles; Singapore|Singapore's prawn noodles fried in rich stock
+D0507|vinegar-soy braise; Filipino|The Philippines' vinegar and soy braised chicken or pork
+D0508|sour soup; Filipino|The Philippines' sour tamarind soup
+D0509|whole roast pig; Filipino|The Philippines' spit-roasted whole pig
+D0510|peanut stew; Filipino|The Philippines' oxtail stew in peanut sauce
+D0511|sizzling pork; Filipino|The Philippines' sizzling chopped pork
+D0512|spring rolls; Filipino|The Philippines' spring rolls
+D0513|stir-fried noodles; Filipino|The Philippines' stir-fried egg noodles
+D0517|steamed fish curry; Cambodia|Cambodia's steamed fish curry in banana leaf
+D0519|fish noodle soup; Myanmar breakfast|Myanmar's fish and rice noodle soup
+D0522|chopped flatbread stir-fry; Sri Lankan street food|Sri Lanka's chopped flatbread stir-fried with curry
+D0523|bowl-shaped pancakes; Sri Lankan|Sri Lanka's bowl-shaped crisp pancakes
+D0527|Dhaka wedding biryani|Dhaka's mutton biryani with potato
+D0530|rice and lentils; Nepal|Nepal's everyday plate of rice and lentil soup
+D0533|chilli and cheese stew; Bhutan|Bhutan's chilli-and-cheese stew
+D0535|wok curry; Pakistani|Pakistan's mutton cooked in a karahi
+D0536|flat kebab; Peshawar|Peshawar's flat, spicy minced meat kebab
+D0539|national rice dish; Afghan|Afghanistan's rice with lamb, carrots and raisins
+D0542|rice pilaf; Central Asia|Uzbekistan's rice pilaf with lamb and carrots
+D0543|noodle soup; Central Asia|Central Asia's hand-pulled noodles with lamb
+D0548|three colours of the flag; Naples|Naples' classic pizza with tomato, mozzarella and basil
+D0549|creamy without cream; Roman|Rome's pasta with egg, cheese and cured pork
+D0550|layered baked pasta; Italian|Italy's baked layers of pasta, meat sauce and béchamel
+D0551|golden rice; Milan|Milan's saffron risotto
+D0552|meat sauce pasta; Italian|Pasta with a slow-cooked meat sauce
+D0553|green sauce; Genoa|Genoa's basil and pine-nut sauce
+D0554|cheese and pepper pasta; Roman|Rome's pasta with cheese and black pepper
+D0555|tomato and pork pasta; Amatrice|Pasta in tomato sauce with cured pork cheek
+D0556|garlic-oil pasta; Italian|Italy's garlic and olive oil spaghetti
+D0557|creamy white pasta|Ribbon pasta in a butter-cream-parmesan sauce
+D0558|braised veal shanks; Milan|Milan's braised veal shanks
+D0559|potato dumplings; Italian|Italy's soft potato dumplings
+D0560|coffee-soaked layers; Italian|Italy's coffee-soaked layered dessert with mascarpone
